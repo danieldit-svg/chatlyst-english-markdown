@@ -1,0 +1,106 @@
+---
+description: This guide explains how to set up a widget from start to finish.
+icon: rectangle-plus
+---
+
+# Add a Widget
+
+In the WhatsApp channel, select **Add Widget (Connect Whatsapp Number)**.
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachmentbab7e808 52a4 403b bbec a7133236f72dimage.png" alt="" width="375"></div>
+
+Widget configuration includes three sections: [**Appearance**](add-a-widget.md#appearance), [**Behavior**](add-a-widget.md#behavior), and [**Advanced**](add-a-widget.md#advanced).
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachment32353f34 047d 4c9a abc4 377b8a8f95caimage.png" alt=""></div>
+
+{% hint style="info" %}
+Use the navigation tabs to move between **Appearance**, **Behavior**, and **Advanced**, and to quickly review or update specific sections.
+
+![](<../../.gitbook/assets/image (229).png>)
+{% endhint %}
+
+{% stepper %}
+{% step %}
+### Appearance
+
+Users can update the following fields:
+
+* **Company Display Name** — the public-facing name shown in the widget header.
+* **Widget Name** — an internal name used to manage multiple widgets.
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachment9c7c4298 48e6 45d1 8bde 73f625e892cbimage.png" alt=""></div>
+{% endstep %}
+
+{% step %}
+### Behavior
+
+**Control how the widget interacts with visitors.**
+
+* **Human Handoff** — controls what happens when the bot needs to hand the conversation back to a live agent. If this setting is turned off, the conversation automatically closes when the bot attempts to route the chat to a human agent, instead of keeping the session open for a takeover. The default setting is turned on.
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachment645f59e9 b451 4eda b553 66bb817e2071image.png" alt=""></div>
+{% endstep %}
+
+{% step %}
+### Advanced
+
+**Adjust technical and session settings.**
+
+* **Max Assistant Messages Per Session** — sets the maximum number of assistant messages allowed in a single chat session. When the limit is reached, the chat switches to a human user, and the status updates to Pending 1st Response.
+
+{% hint style="info" %}
+The default is 30 messages per session, with a minimum of 10.
+{% endhint %}
+
+* **Session Timeout** (minutes) — sets how long a session stays active after the most recent message. The session stays active as long as messages continue. If no new message arrives within the set time (measured from the last message), the session expires and closes. If a human takes over during the session, the session remains active.
+
+{% hint style="info" %}
+The default value is 1,440 minutes (24 hours). This is the recommended settings. For WhatsApp channel, this value cannot exceed 1440 minutes.
+{% endhint %}
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachment6fa2d13d a84d 45f8 b73a c0e78fa1af88image.png" alt=""></div>
+{% endstep %}
+
+{% step %}
+### Complete the configuration
+
+After finishing configuration, select **Create**.
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachment912aa1ec 97d6 4a8f 8c2c 1bd31ccd689bimage.png" alt=""></div>
+{% endstep %}
+
+{% step %}
+### Activate the widget
+
+After you create a widget, the next page opens automatically so you can review the widget details.
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachment8504622f 4f3f 4d17 8b87 a28c0b0da01fimage.png" alt=""></div>
+{% endstep %}
+
+{% step %}
+### **Connect with WhatsApp**
+
+1. Select **Connect with WhatsApp.**
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachment77632f7a b93b 4f09 8879 f72a30e51465image.png" alt=""></div>
+
+2. In the Meta window, log in to your Facebook account (if required). When prompted, connect with Effex, then select **Continue**.
+
+{% hint style="warning" %}
+Meta may take a few minutes to load this window. Please be patient.
+{% endhint %}
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachmentd8f5a984 4974 445b 9abf ef0bde628014image (1).png" alt="" width="375"></div>
+
+3. Select a **Business Portfolio.**
+
+<div data-with-frame="true"><img src="../../.gitbook/assets/attachmentb19144b8 0e4c 4577 9808 a9ae9477a6ceimage (1).png" alt="" width="375"></div>
+
+4. Select a WhatsApp Business account option to proceed.
+   * Choose one option:
+     * If you already have a registered WhatsApp Business account, select [**Connect a WhatsApp Business app**](connect-by-linking-into-an-existing-whatsapp-business-app.md);
+     * If you do not have a registered WhatsApp Business account, select [**Create a WhatsApp Business account**](connect-by-creating-a-whatsapp-business-account.md).&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (253).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
