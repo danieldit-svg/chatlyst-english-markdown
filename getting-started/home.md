@@ -22,7 +22,7 @@ icon: compass
 
 The sidebar includes quick-access shortcuts that help you jump to key areas and manage common tasks.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (209).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (255).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
