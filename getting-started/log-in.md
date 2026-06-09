@@ -32,7 +32,7 @@ On the Log in page, choose a login method.
 1. Enter the email address and password.
 2. Select **Log in**.
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachmentf8993fa8 4630 48b3 bbd7 2f88b03a7d10image (1).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Option B: Log in with Google
 
