@@ -18,5 +18,3 @@ Supported channels include:
 * Facebook (Coming Soon)
 * Instagram (Coming Soon)
 * Telegram (Coming Soon).
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure></div>
