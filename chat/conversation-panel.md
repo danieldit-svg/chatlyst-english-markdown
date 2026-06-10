@@ -5,7 +5,7 @@ icon: comments-question
 
 # Conversation Panel
 
-n addition to reading the conversation history, the Conversation Panel lets a team member join the thread as a live agent and take action based on the current status. After joining, the live agent can review the full message history, respond directly in the thread, and use the available quick actions that match the current status. Training feedback can also be submitted on both bot and agent responses.
+In addition to reading the conversation history, the Conversation Panel lets a team member join the thread as a live agent and take action based on the current status. After joining, the live agent can review the full message history, respond directly in the thread, and use the available quick actions that match the current status. Training feedback can also be submitted on both bot and agent responses.
 
 ### Confirm the Conversation Status
 
