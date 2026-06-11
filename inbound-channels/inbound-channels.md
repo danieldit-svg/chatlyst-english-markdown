@@ -12,9 +12,11 @@ Use this page to review available channels, enable or disable channels as needed
 Supported channels include:
 
 * [Website Embed](website-embed/)
-* [WhatsApp (Coming Soon)](whatsapp/)
+* [WhatsApp](whatsapp/)
 * Shopify (Coming Soon)
 * WordPress (Coming Soon)
 * Facebook (Coming Soon)
 * Instagram (Coming Soon)
-* Telegram (Coming Soon).
+* Telegram (Coming Soon)
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure></div>
