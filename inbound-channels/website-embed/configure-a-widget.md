@@ -29,15 +29,9 @@ If changes are needed, select **Manage Widget** in the top-right corner. The Man
 <div data-with-frame="true"><img src="../../.gitbook/assets/attachment0cbb3dfa 1f4a 41cb 8143 a86f7c1f08afimage (2).png" alt=""></div>
 
 {% hint style="info" %}
-Navigation tab — use this to return to the Overview page at any time. Before leaving the page, select **Save** and confirm the toggle is set correctly so changes are not lost.
+Navigation tab & Save — use this to return to the Overview page at any time. Before leaving the page, select **Save** and confirm updates are applied.
 
-![](../../.gitbook/assets/nav.png)
-{% endhint %}
-
-{% hint style="info" %}
-Please note that the toggle switch and Save button are located in the top-right corner of the management page. Select **Save** after making changes and confirm the toggle is set correctly so updates are applied.
-
-![](<../../.gitbook/assets/image (49).png>)
+![](<../../.gitbook/assets/image (266).png>)
 {% endhint %}
 
 ### Embed code
