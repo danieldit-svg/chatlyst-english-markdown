@@ -102,10 +102,9 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 <summary>Session Timeout</summary>
 
 * When the session times out, the widget prompts visitors to start a new conversation so chatting can continue after the previous session expires.
+* A timed-out session closes automatically in Chat and no longer appears as an active conversation.
 
 <p align="center"><img src="../../.gitbook/assets/image (46).png" alt=""></p>
-
-* A timed-out session closes automatically in Chat and no longer appears as an active conversation.
 
 </details>
 {% endstep %}
