@@ -6,7 +6,7 @@ icon: address-card
 
 Profile opens first in Settings. Use this section to update personal account details, change your password, manage notifications, and adjust other account preferences.
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachmenta723b01b 44d1 4110 83ff ce3dee3e9d0a68b61336 aa45 4c7e ac3c 807699cb5679 (2).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Navigation tabs — let you switch between [Profile](profile.md), [Company](company.md), [Team](team.md), and [Billing](billing.md) without returning to Home.
@@ -74,6 +74,12 @@ Choose how Chatlyst looks on your device.
 2. Select **System** to match your device’s current appearance settings. Chatlyst updates automatically if you change your device theme later.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure></div>
+
+### Onboarding Tour
+
+Select **Restart Onboarding Tour** to review step tour.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Locale Preferences
 
