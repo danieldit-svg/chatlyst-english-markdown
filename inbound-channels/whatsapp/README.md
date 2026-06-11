@@ -11,7 +11,7 @@ icon: whatsapp
 
 #### **Prerequisite for Connection**
 
-To connect a WhatsApp channel, you must have an Admin role in Meta Business. For more details, please refer to [Meta Business](https://www.google.com/aclk?sa=L\&pf=1\&ai=DChsSEwjv1aqKmN6UAxUj0EwCHXoLBfgYACICCAEQARoCdG0\&co=1\&ase=2\&gclid=CjwKCAjw8uTQBhAdEiwAVvtJypr9IXH06q_H9UOsg7gZ8krFKBJEKMOXlJz-MWXE5vyRqPG09u_EHhoCSiYQAvD_BwE\&cid=CAASWuRoV6bjS1MzkobBuoNIgmQJqhAqiJpToj-MVeY_bAtmufnCv3DnoZwUjBkCZeQ3ae5rKDlcfjBi2iQkhVvxnwhW5mMeerHBEn0IOvJhsRvC2YwBvAMn9zIsSA\&cce=2\&category=acrcp_v1_32\&sig=AOD64_2uj7N2p3Fj_MBj8iX_UHSbk34uPg\&q\&nis=4\&adurl=https://www.facebook.com/business/tools/meta-business-suite?content_id%3DnGnfkbGOZcHNsxu%26ref%3Dsem_smb%26utm_term%3Ddsa-1960470484984%26gclid%3DCjwKCAjw8uTQBhAdEiwAVvtJypr9IXH06q_H9UOsg7gZ8krFKBJEKMOXlJz-MWXE5vyRqPG09u_EHhoCSiYQAvD_BwE%26gad_source%3D1%26gad_campaignid%3D21463080904%26gbraid%3D0AAAAACr-yC_jWIR19uhB9JNKTTHD4nCJr%26gclid%3DCjwKCAjw8uTQBhAdEiwAVvtJypr9IXH06q_H9UOsg7gZ8krFKBJEKMOXlJz-MWXE5vyRqPG09u_EHhoCSiYQAvD_BwE\&ved=2ahUKEwjmyaGKmN6UAxXHk1YBHRbTIr0Q0Qx6BAgQEAE).
+To connect a WhatsApp channel, you must have an Admin role in Meta Business. For more details, please refer to [Meta Business](https://www.facebook.com/business/tools/meta-business-suite?content_id=nGnfkbGOZcHNsxu\&ref=sem_smb\&utm_term=dsa-1960470484984\&gclid=CjwKCAjw8uTQBhAdEiwAVvtJypr9IXH06q_H9UOsg7gZ8krFKBJEKMOXlJz-MWXE5vyRqPG09u_EHhoCSiYQAvD_BwE\&gad_source=1\&gad_campaignid=21463080904\&gbraid=0AAAAACr-yC_jWIR19uhB9JNKTTHD4nCJr).
 
 #### **WhatsApp 3-Way Synchronisation**
 
