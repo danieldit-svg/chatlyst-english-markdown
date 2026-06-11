@@ -6,7 +6,7 @@ icon: address-card
 
 Profile opens first in Settings. Use this section to update personal account details, change your password, manage notifications, and adjust other account preferences.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Navigation tabs — let you switch between [Profile](profile.md), [Company](company.md), [Team](team.md), and [Billing](billing.md) without returning to Home.
