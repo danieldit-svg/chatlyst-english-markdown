@@ -5,7 +5,7 @@ icon: globe-pointer
 
 # Website Embed
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (105).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (257).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 When an account is successfully registered, the system automatically creates a default chat widget for that account. This gives users a ready-to-use starting point, so they can begin testing the Website Embed experience right away and then update the widget’s settings later as needed.
