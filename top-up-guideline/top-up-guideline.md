@@ -17,7 +17,7 @@ Chatlyst uses two credit types, and each one supports a different function.
 Users can open the Top up page in several ways. Choose the option that is fastest at the time.
 
 * Open **Settings →** [**Billing**](https://www.notion.so/Settings-f3f58ff777ff82df8265815e49b337cb?pvs=21).
-* Open **Dashboard → Usage**, then select [**Top up**](https://www.notion.so/Dashboard-e8f58ff777ff82dabe9881414c7abfa7?pvs=21).
+* Open **Dashboard → Usage**, then select [**Top up**](../dashboard/usage.md).
 * **(Recommend)** On the Home page, use the [**Usage Details: Top up shortcut**](../getting-started/home.md#usage-details).
   * This shortcut is useful when credits are running low.
   * It also shows the remaining credit balance.
