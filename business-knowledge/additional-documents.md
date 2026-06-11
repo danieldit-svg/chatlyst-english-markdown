@@ -11,7 +11,7 @@ icon: file-circle-plus
 **Important Note**: Please follow [Document Management](document-management.md) for additional context on other functions and workflows, including how documents are organized, updated, and maintained over time.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
@@ -21,7 +21,7 @@ Select **Upload Document** or **Upload Your First Document**.&#x20;
 
 Alternatively, you can upload it in the [Core Knowledge](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/business-knowledge) section.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
