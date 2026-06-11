@@ -37,7 +37,7 @@ Document type selection can still be adjusted at this stage.
 {% endstep %}
 
 {% step %}
-Select **Train 6 Selected Tickets** to proceed.
+Select **Train 6 Selected Tickets** to proceed to the [Training Method](training-method.md).
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (91).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
