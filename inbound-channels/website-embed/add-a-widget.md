@@ -48,7 +48,7 @@ Users can update the following fields:
 
 * **Secondary Color** — sets the secondary color used for supporting UI elements and creates contrast with the primary color. This color applies only to the footer.
 
-<div align="center"><img src="../../.gitbook/assets/attachment3e4daf40 f1d1 4802 b3ff 41bea7736444image (2).png" alt="Footer" width="375"></div>
+<div align="center" data-with-frame="true"><img src="../../.gitbook/assets/attachment3e4daf40 f1d1 4802 b3ff 41bea7736444image (2).png" alt="Footer" width="375"></div>
 
 2.  **Widget Theme**
 
@@ -106,8 +106,6 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 <p align="center"><img src="../../.gitbook/assets/image (46).png" alt=""></p>
 
 * A timed-out session closes automatically in Chat and no longer appears as an active conversation.
-
-<p align="center"><img src="../../.gitbook/assets/image (47).png" alt=""></p>
 
 </details>
 {% endstep %}
