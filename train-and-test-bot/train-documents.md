@@ -117,7 +117,7 @@ The [Training Panel](train-documents.md#training-panel) is the **recommended** *
 {% endstep %}
 
 {% step %}
-### [Training Note Handling](train-documents.md#traning-note-handling)
+### [Training Note Handling](training-note-handling.md)
 
 **Purpose:** Decide how to process the selected tickets.
 
