@@ -37,7 +37,7 @@ icon: file
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure></div>
 
-### Template tag
+### Template & Document tag
 
 Each template includes tag to show status and priority.
 
@@ -59,7 +59,7 @@ Shows that the document is a priority to complete early.
 
 <details>
 
-<summary></summary>
+<summary><strong>Processing</strong></summary>
 
 
 
@@ -67,7 +67,7 @@ Shows that the document is a priority to complete early.
 
 <details>
 
-<summary></summary>
+<summary><strong>Extracting</strong></summary>
 
 
 
@@ -75,7 +75,7 @@ Shows that the document is a priority to complete early.
 
 <details>
 
-<summary></summary>
+<summary><strong>Upload Error</strong></summary>
 
 
 
@@ -85,13 +85,10 @@ Shows that the document is a priority to complete early.
 
 ### Prerequisites for Uploading a Template
 
-<br>
+Before uploading a template, determine whether an existing document is available.
 
-If an existing document is ready to use, upload the file directly instead of downloading and completing a Chatlyst template. Alternatively, you can use the [Auto-fill](business-knowledge.md#auto-fill-template) option to populate the template **automatically** and complete the work faster when manual editing is not necessary.
-
-If you do not have any existing documents and knowledge to use, please follow Download and Upload a Template
-
-If you already have documents and knowledge to and its ready to use, please follow Autofill and Upload.&#x20;
+* If documents and knowledge are already prepared and ready, proceed with [Upload the template](core-knowledge.md#upload-the-template). Alternatively, you can use the [Auto-fill](auto-fill.md) option to populate the template **automatically** and complete the work faster when manual editing is not necessary.
+* If you do not have any existing documents and knowledge to use, please follow [Download and Upload a Template](core-knowledge.md#download-and-upload-a-template).&#x20;
 
 ### Download and Upload a Template
 
@@ -124,16 +121,20 @@ The standard file type is DOCX and can be edited in most word-processing apps.
 #### Upload the template
 
 1. Select the completed template.
-2. Select **Upload**.
+2. Select **Auto-fill or Upload**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure></div>
 
-3. The system opens a file-selection window to choose the document to upload. Locate the correct file, select it, then select Upload to begin processing.
+3. The system opens a window where you can choose either **Auto-fill with Website** or **Upload a File Directly**.
+   * If you proceed with **Auto-fill**, follow the steps in the [Auto-fill](auto-fill.md).&#x20;
+   * For **Upload a File Directly**:
+     1. Locate the correct file and select it.
+     2. Click **Create Knowledge** to begin processing.
 
 <div align="center"><img src="../.gitbook/assets/attachmentd9d357d0 31cf 4bc1 824c 5b9ce2f451aaScreenshot_2026 04 16_at_2.26.24_PM.png" alt="" width="375"></div>
 
 {% hint style="info" %}
-Supported file types: PDF, TXT, MD, CSV. Maximum file size: 20 MB
+Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 {% endhint %}
 
 4. When processing is complete:

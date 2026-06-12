@@ -26,9 +26,9 @@
 
 * [Business Knowledge](business-knowledge/business-knowledge.md)
 * [Core Knowledge](business-knowledge/core-knowledge.md)
+* [Auto-fill](business-knowledge/auto-fill.md)
 * [Additional Documents](business-knowledge/additional-documents.md)
 * [Document Management](business-knowledge/document-management.md)
-* [Auto-fill](business-knowledge/auto-fill.md)
 
 ## TRAIN & TEST BOT
 

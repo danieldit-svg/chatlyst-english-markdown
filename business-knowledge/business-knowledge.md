@@ -18,12 +18,6 @@ Navigation tab — Use the navigation tab in the top-left corner of the page to 
 
 ## Functions
 
-### ~~Auto-fill Template~~
-
-~~This feature requires additional setup before it can be enabled and shown on the Dashboard. Select Contact Effex, then contact~~ [~~hello@chatlyst.io~~](mailto:hello@chatlyst.io) ~~for details.~~
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure></div>
-
 ### Tutorial
 
 Select **Tutorial** to view the basic steps for uploading a template.
