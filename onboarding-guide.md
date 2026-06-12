@@ -137,8 +137,8 @@ Train & Test is isolated from production, so it won’t affect live customers.
 
 While testing (or later, while reviewing real bot replies):
 
-* Use [**thumbs up**](train-and-test-bot/training-feedback.md#step-1-rate-the-bots-response) when an answer is correct.
-* Use [**thumbs down**](train-and-test-bot/training-feedback.md#step-1-rate-the-bots-response) when an answer is wrong, incomplete, off-tone, or follows the wrong process.
+* Use **thumbs up** when an answer is correct.
+* Use **thumbs down** when an answer is wrong, incomplete, off-tone, or follows the wrong process.
 
 When submitting **negative feedback**, always:
 
