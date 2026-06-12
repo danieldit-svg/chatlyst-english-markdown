@@ -37,16 +37,61 @@ icon: file
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-Template tag — Each template includes tags to show status and priority.
+### Template tag
 
-* **Active / Inactive:** Shows whether the document has been uploaded and is available in the system.
-* **Essential:** Shows that the document is a priority to complete early.
+Each template includes tag to show status and priority.
 
-<img src="../.gitbook/assets/image (43).png" alt="" data-size="original">
-{% endhint %}
+<details>
+
+<summary><strong>Active / Inactive</strong></summary>
+
+Shows whether the document has been uploaded and is available in the system.
+
+</details>
+
+<details>
+
+<summary><strong>Essential</strong></summary>
+
+Shows that the document is a priority to complete early.
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
 
 ***
+
+### Prerequisites for Uploading a Template
+
+<br>
+
+If an existing document is ready to use, upload the file directly instead of downloading and completing a Chatlyst template. Alternatively, you can use the [Auto-fill](business-knowledge.md#auto-fill-template) option to populate the template **automatically** and complete the work faster when manual editing is not necessary.
+
+If you do not have any existing documents and knowledge to use, please follow Download and Upload a Template
+
+If you already have documents and knowledge to and its ready to use, please follow Autofill and Upload.&#x20;
 
 ### Download and Upload a Template
 
@@ -71,12 +116,6 @@ The standard file type is DOCX and can be edited in most word-processing apps.
 1. Open the file.
 2. Follow the instructions and examples in the template.
 3. Save the updated file to the device.
-
-Alternatively, you can use the [Auto-fill Template](business-knowledge.md#auto-fill-template) option to populate the template automatically and complete the work faster when manual editing is not necessary.
-
-{% hint style="info" %}
-If an existing document is ready to use, upload the file directly instead of downloading and completing a Chatlyst template.
-{% endhint %}
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/Screenshot 2026-05-13 at 1.50.08 PM.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
