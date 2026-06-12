@@ -58,7 +58,7 @@ By the end, you’ll be able to keep knowledge accurate, monitor performance, an
 You can:
 
 * Download the [templates](business-knowledge/core-knowledge.md), fill them with your current information, then upload.
-* Or upload existing internal docs (if they are clear, complete, and easy for an outsider to understand).
+* Or upload existing internal docs (if they are clear, complete, and easy for an outsider to understand). Alternatively, you can use the [Auto-fill](business-knowledge/auto-fill.md) option to populate the template **automatically** and complete the work faster when manual editing is not necessary.
 
 These documents drive:
 
