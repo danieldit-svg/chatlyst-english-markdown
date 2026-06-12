@@ -4,10 +4,7 @@ icon: file-signature
 
 # Auto-fill
 
-### Overview <a href="#auto-fill-feature-overview" id="auto-fill-feature-overview"></a>
-
-The **Auto-fill feature** is a powerful tool that automatically generates document content by crawling a provided website.\
-Our bot scrapes the website based on the **category you choose**:
+The **Auto-fill feature** is a powerful tool that automatically generates document content by crawling a provided website. Our bot scrapes the website based on the **category you choose**:
 
 * If you select **Company & Brand Identity**, the bot extracts brand information.
 * If you select **Ticket Handling Policy & SOP**, it extracts support and ticketing data instead.
@@ -31,33 +28,35 @@ Auto-fill feature requires additional setup before it can be enabled. Please con
 {% step %}
 Select **Auto-fill or Upload**.
 
-
+\<image>
 {% endstep %}
 
 {% step %}
 Select **Auto-fill with Website**.
 
-
+\<image>
 {% endstep %}
 
 {% step %}
 Input your website URL.
 
+\<image>
+
 {% hint style="info" %}
 Each URL will consume 5 KC Bot Credits
 {% endhint %}
-{% endstep %}
 
-{% step %}
-If you have multiple websites, select **Add Websites**.
+* If you have multiple websites, select **Add Websites**.
 
-
+\<image>
 {% endstep %}
 
 {% step %}
 If you also have an existing document (in any supported format), you can also upload.
 
 * Chatlyst will treat this upload document as additional knowledge to enrich your knowledge base.
+
+\<image>
 
 {% hint style="info" %}
 Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
@@ -66,6 +65,8 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 
 {% step %}
 Click **Create Knowledge** to proceed.
+
+\<image>
 {% endstep %}
 {% endstepper %}
 
@@ -76,28 +77,36 @@ Click **Create Knowledge** to proceed.
 {% stepper %}
 {% step %}
 Select **Auto-fill or Upload**.
+
+\<image>
 {% endstep %}
 
 {% step %}
 Select **Enhance with Website**.
+
+\<image>
 {% endstep %}
 
 {% step %}
 Input your website URL.
 
+\<image>
+
 {% hint style="info" %}
 Each URL will consume 5 KC Bot Credits
 {% endhint %}
-{% endstep %}
 
-{% step %}
-If you have multiple websites, click **Add Websites**.
+* If you have multiple websites, click **Add Websites**.
+
+\<image>
 {% endstep %}
 
 {% step %}
 If you also have an existing document (in any supported format), you can also upload.
 
 * Chatlyst will treat this upload document as additional knowledge to enrich your knowledge base.
+
+\<image>
 
 {% hint style="info" %}
 Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
@@ -106,5 +115,7 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 
 {% step %}
 Click **Re-create Knowledge** to proceed.
+
+\<image>
 {% endstep %}
 {% endstepper %}

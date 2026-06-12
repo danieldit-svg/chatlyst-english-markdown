@@ -37,50 +37,6 @@ icon: file
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure></div>
 
-### Template & Document tag
-
-Each template includes tag to show status and priority.
-
-<details>
-
-<summary><strong>Active / Inactive</strong></summary>
-
-Shows whether the document has been uploaded and is available in the system.
-
-</details>
-
-<details>
-
-<summary><strong>Essential</strong></summary>
-
-Shows that the document is a priority to complete early.
-
-</details>
-
-<details>
-
-<summary><strong>Processing</strong></summary>
-
-
-
-</details>
-
-<details>
-
-<summary><strong>Extracting</strong></summary>
-
-
-
-</details>
-
-<details>
-
-<summary><strong>Upload Error</strong></summary>
-
-
-
-</details>
-
 ***
 
 ### Prerequisites for Uploading a Template
@@ -120,8 +76,7 @@ The standard file type is DOCX and can be edited in most word-processing apps.
 {% step %}
 #### Upload the template
 
-1. Select the completed template.
-2. Select **Auto-fill or Upload**.
+1. Select **Auto-fill or Upload**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure></div>
 
