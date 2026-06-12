@@ -22,7 +22,7 @@ Auto-fill feature requires additional setup before it can be enabled. Please con
 
 ***
 
-### First-Time Setup: Create Knowledge <a href="#first-time-setup-create-new-knowledge" id="first-time-setup-create-new-knowledge"></a>
+### First-Time Setup <a href="#first-time-setup-create-new-knowledge" id="first-time-setup-create-new-knowledge"></a>
 
 {% stepper %}
 {% step %}
@@ -72,7 +72,7 @@ Click **Create Knowledge** to proceed.
 
 ***
 
-### Updating Existing Knowledge: Enhance with Website <a href="#updating-existing-knowledge-enhance-with-website" id="updating-existing-knowledge-enhance-with-website"></a>
+### Updating Existing Knowledge <a href="#updating-existing-knowledge-enhance-with-website" id="updating-existing-knowledge-enhance-with-website"></a>
 
 {% stepper %}
 {% step %}
