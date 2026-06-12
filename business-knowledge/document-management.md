@@ -18,7 +18,7 @@ icon: file-circle-info
 * When a document has no pending training items and is considered clean, the document tab is highlighted in light green.
 * When there are pending training tickets, the document tab is highlighted in light yellow.
 
-<table><thead><tr><th width="141.67498779296875">Status</th><th>Definition</th></tr></thead><tbody><tr><td><mark style="color:$success;">Active</mark></td><td>The document has been uploaded and is available in the system.</td></tr><tr><td><mark style="color:$info;">Inactive</mark></td><td>The document has not been uploaded or is not available in the system.</td></tr><tr><td><mark style="color:yellow;">Essential</mark></td><td>The document is a priority and should be completed early.</td></tr><tr><td><mark style="color:$info;">Processing</mark></td><td>Chatlyst is processing your uploaded document (typically appears right after upload or auto-fill).</td></tr><tr><td><mark style="color:blue;">Extracting</mark></td><td>Chatlyst is extracting content from your uploaded document (typically appears right after upload or auto-fill).</td></tr><tr><td><mark style="color:$danger;">Upload Error</mark></td><td>The document could not be extracted or is a corrupted file. When Chatlyst detects an error or cannot proceed, it will not activate the document, and the status remains <strong>Inactive</strong>.</td></tr></tbody></table>
+<table><thead><tr><th width="141.67498779296875">Status</th><th>Definition</th></tr></thead><tbody><tr><td>Active</td><td>The document has been uploaded and is available in the system.</td></tr><tr><td>Inactive</td><td>The document has not been uploaded or is not available in the system.</td></tr><tr><td>Essential</td><td>The document is a priority and should be completed early.</td></tr><tr><td>Processing</td><td>Chatlyst is processing your uploaded document (typically appears right after upload or auto-fill).</td></tr><tr><td>Extracting</td><td>Chatlyst is extracting content from your uploaded document (typically appears right after upload or auto-fill).</td></tr><tr><td>Upload Error</td><td>The document could not be extracted or is a corrupted file. When Chatlyst detects an error or cannot proceed, it will not activate the document, and the status remains <strong>Inactive</strong>.</td></tr></tbody></table>
 
 ***
 
@@ -42,7 +42,7 @@ Select **Auto-fill or Upload** to replace an existing file with an updated versi
 {% endstep %}
 
 {% step %}
-**The system opens a window where you can choose either Enhance with Website or Upload a File Directly.**
+The system opens a window where you can choose either **Enhance with Website** or **Upload a File Directly**.
 
 * If you proceed with **Auto-fill**, follow the steps in the [Updating Existing Knowledge: Enhance with Website](auto-fill.md#updating-existing-knowledge-enhance-with-website).
 * For **Upload a File Directly**:
