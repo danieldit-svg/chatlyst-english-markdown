@@ -81,11 +81,10 @@ The standard file type is DOCX and can be edited in most word-processing apps.
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure></div>
 
 2. The system opens a window where you can choose either **Auto-fill with Website** or **Upload a File Directly**.
-
-* If you proceed with **Auto-fill**, follow the steps in the [Auto-fill](auto-fill.md).&#x20;
-* For **Upload a File Directly**:
-  1. Locate the correct file and select it.
-  2. Click **Create Knowledge** to begin processing.
+   * If you proceed with **Auto-fill**, follow the steps in the [Auto-fill](auto-fill.md).&#x20;
+   * For **Upload a File Directly**:
+     1. Locate the correct file and select it.
+     2. Click **Create Knowledge** to begin processing.
 
 <div align="center"><img src="../.gitbook/assets/attachmentd9d357d0 31cf 4bc1 824c 5b9ce2f451aaScreenshot_2026 04 16_at_2.26.24_PM.png" alt="" width="375"></div>
 
