@@ -42,13 +42,6 @@ Select **Connect a WhatsApp Business app**, then select **Next**
    * Select your **Country**.
    * Enter your **Website**.
    * Select **Next** to proceed.
-
-{% hint style="warning" %}
-The website must be valid. This example uses Google for demonstration purposes.
-{% endhint %}
-
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment3b809554 392b 4c4a a316 4975bf9fdb12Screenshot_2026 06 01_at_9.57.03_PM.png" alt="" width="375"></div>
-
 3. In WhatsApp Business phone number, enter the Phone Number registered to your WhatsApp Business account, then select **Next**.
 
 <div data-with-frame="true"><img src="../../.gitbook/assets/attachment9780b3a5 9b60 43ad 85ec 41b7514347c8Screenshot_2026 06 01_at_10.01.11_PM.png" alt="" width="375"></div>
