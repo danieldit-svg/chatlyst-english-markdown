@@ -44,7 +44,7 @@ Select **Auto-fill or Upload** to replace an existing file with an updated versi
 {% step %}
 The system opens a window where you can choose either **Enhance with Website** or **Upload a File Directly**.
 
-* If you proceed with **Auto-fill**, follow the steps in the [Updating Existing Knowledge: Enhance with Website](auto-fill.md#updating-existing-knowledge-enhance-with-website).
+* If you proceed with **Auto-fill**, follow the steps in the [Updating Existing Knowledge](auto-fill.md#updating-existing-knowledge-enhance-with-website).&#x20;
 * For **Upload a File Directly**:
   1. Locate the correct file and select it.
   2. Click **Re-create Knowledge** to begin processing.
