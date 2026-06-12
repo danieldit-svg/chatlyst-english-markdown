@@ -197,7 +197,7 @@ If you spot a mistake after submitting a ticket:
 {% endstep %}
 
 {% step %}
-#### [Create, configure, and activate widgets](inbound-channels/website-embed/add-a-widget.md)
+#### Create, configure, and activate widgets
 
 In **Website Embed**:
 
@@ -332,7 +332,7 @@ If you are an **admin**:
 Use this as a quick recap:
 
 * [ ] Create your account and confirm you can log in.
-* [ ] Upload **Company & Brand Identity** and **Ticket Handling Policy & SOP**.
+* [ ] Upload **Company & Brand Identity, Ticket Handling Policy & SOP** and **Standard FAQ**.
 * [ ] Add any high-priority **Additional Documents**.
 * [ ] Run core scenarios in **Train & Test** and submit training feedback where needed.
 * [ ] Set up one **Website Embed** widget and confirm it appears on your site.
