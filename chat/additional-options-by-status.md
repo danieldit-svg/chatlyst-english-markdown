@@ -80,7 +80,7 @@ After unsnoozing:
 
 #### Hand Back to AI
 
-This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select Contact Effex and contact [hello@chatlyst.io](mailto:hello@chatlyst.io) for details.
+This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select **Contact Effex** for details.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (206).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
