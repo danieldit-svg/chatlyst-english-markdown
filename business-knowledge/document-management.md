@@ -80,7 +80,9 @@ Select the **expand menu (arrow-down icon)** to open Document Details and review
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure></div>
 
-#### Version History
+***
+
+### Version History
 
 Select the **History (anti-clockwise** **icon)** to open Version History. Each version is listed for review.
 
@@ -94,7 +96,9 @@ Proceed carefully and confirm the correct version before selecting **Activate**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (330).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-#### Preview and Download
+***
+
+### Preview and Download
 
 Select **Preview (eye icon)** on a template to review the document before downloading or uploading a new version.
 
