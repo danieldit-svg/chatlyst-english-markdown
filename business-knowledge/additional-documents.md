@@ -38,7 +38,7 @@ In the upload window:
 When processing is complete:
 
 * The document tab turns light green.
-* The template changes to **Active**.
+* The template status changes to **Active**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
