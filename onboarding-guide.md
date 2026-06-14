@@ -116,8 +116,7 @@ Use **KC Bot** to train Business Knowledge in a guided, consistent way and reduc
 Once Business Knowledge is uploaded:
 
 1. Open **Train & Test bot**.
-2. Start a test chat using:
-   * [**Widget Preview**](train-and-test-bot/train-and-test-bot.md#preview-tab) or [**Streaming Mode**](train-and-test-bot/train-and-test-bot.md#preview-tab) (choose the mode closest to your real use-case).
+2. Start a test chat using: **Widget Preview** or **Streaming Mode** (choose the mode closest to your real use-case).
 3. Use [**New Chat**](train-and-test-bot/train-and-test-bot.md#new-chat) to reset the test thread whenever you need a clean slate.
 
 Use this area to validate:
