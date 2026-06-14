@@ -83,7 +83,7 @@ Users can update the following fields:
 * Language Support
   * There is currently no translation support for this feature. If multiple languages are needed, set the message for each language separately.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (267).png" alt="" width="328"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (269).png" alt="" width="321"><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (270).png" alt="" width="325"><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

@@ -34,11 +34,23 @@ Users can update the following fields:
 {% step %}
 ### Behavior
 
-**Control how the widget interacts with visitors.**
+**Control how the widget interacts with visitors**
 
-* **Human Handoff** — controls what happens when the bot needs to hand the conversation back to a live agent. If this setting is turned off, the conversation automatically closes when the bot attempts to route the chat to a human agent, instead of keeping the session open for a takeover. The default setting is turned on.
+* **Human Handoff** — controls what happens when the bot needs to pass the conversation back to a live agent. The default setting is **ON**.
+  * When **ON**, the conversation stays open for a human takeover.
+  * When **OFF**, the conversation closes automatically when the bot tries to hand it off.
+* **Handoff Message**
+  * If no custom message is set:&#x20;
+    * When Human Handoff setting is **ON**:\
+      &#xNAN;_“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
+    * When Human Handoff setting is **OFF**:\
+      &#xNAN;_“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
+* Language Support
+  * There is currently no translation support for this feature. If multiple languages are needed, set the message for each language separately.
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment645f59e9 b451 4eda b553 66bb817e2071image.png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure></div>
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
