@@ -51,7 +51,7 @@ This tab shows tickets waiting for the first human response.
 
 #### **Active Complaints**
 
-This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select Contact Effex and contact [hello@chatlyst.io](mailto:hello@chatlyst.io) for details.
+This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select **Contact Effex** for details.
 
 <div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachmentebff0ba4 31d9 44f0 b928 200f8c6b97081c62b1f6 acfc 46b1 b02a 8d93d78f22b1 (1).png" alt="" width="342"></div>
 
@@ -83,7 +83,7 @@ This tab shows the number of uploaded knowledge documents and whether each is Cl
 
 #### **Top Issues**
 
-This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select Contact Effex and contact [hello@chatlyst.io](mailto:hello@chatlyst.io) for details.
+This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select **Contact Effex** for details.
 
 <div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment9bb87383 77f9 44d4 a9ba e3b5c716e4c30130c9a0 010e 4fa5 bacc eae5ed267a78 (1).png" alt="" width="343"></div>
 
@@ -169,7 +169,7 @@ Hover over segments to review the numbers.
 
 #### **Sentiment Analysis**
 
-This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select Contact Effex and contact [hello@chatlyst.io](mailto:hello@chatlyst.io) for details.
+This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select **Contact Effex** for details.
 
 <div data-with-frame="true"><img src="../.gitbook/assets/attachment8392702a 67a7 4964 a436 d62c9d436b4700f3ef47 ff0b 47d2 804a b4007c86b009 (1).png" alt="" width="563"></div>
 
