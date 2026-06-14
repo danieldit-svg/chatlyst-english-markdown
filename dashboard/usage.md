@@ -35,7 +35,7 @@ Date Range — Use the top-right date range selector to view data for a specific
 <img src="../.gitbook/assets/image (36).png" alt="" data-size="original">
 {% endhint %}
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment56919836 8e90 4d7c ac4c 83b831a9621380ea5686 79a1 4705 a59a 0aa0e7e438ca (1).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
