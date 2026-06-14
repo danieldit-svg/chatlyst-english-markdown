@@ -68,9 +68,9 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 {% endstep %}
 
 {% step %}
-Click **Create Knowledge** to proceed.
+Click **Create Knowledge** to proceed, then select **Confirm Create** in the next window. The process will take approximately 2 minutes.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (294).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -122,8 +122,8 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 {% endstep %}
 
 {% step %}
-Click **Re-create Knowledge** to proceed.
+Click **Re-create Knowledge** to proceed, then select **Confirm Re-create** in the next window. The process will take approximately 2 minutes.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (304).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
