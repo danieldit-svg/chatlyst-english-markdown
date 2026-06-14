@@ -103,9 +103,7 @@ The default is 30 messages per session, with a minimum of 10.
 The default value is 1,440 minutes (24 hours). This is the recommended settings.&#x20;
 {% endhint %}
 
-
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (107).png" alt="" width="291"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (337).png" alt="" width="324"><figcaption></figcaption></figure></div>
 
 <details>
 
