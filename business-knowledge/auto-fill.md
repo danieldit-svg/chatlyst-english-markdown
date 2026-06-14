@@ -110,7 +110,7 @@ Each URL will consume 5 KC Bot Credits
 {% endstep %}
 
 {% step %}
-(Optional) If you also have an existing document (in any supported format), you can also upload.
+(Optional) If you also have an existing document, you can also upload.
 
 * Chatlyst will treat this upload document as additional knowledge to enrich your knowledge base.
 
