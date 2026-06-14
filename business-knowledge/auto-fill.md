@@ -28,19 +28,19 @@ Auto-fill feature requires additional setup before it can be enabled. Please con
 {% step %}
 Select **Auto-fill or Upload**.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select **Auto-fill with Website**.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (291).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Input your website URL.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (292).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Each URL will consume 5 KC Bot Credits
@@ -48,15 +48,19 @@ Each URL will consume 5 KC Bot Credits
 
 * If you have multiple websites, select **Add Websites**.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (289).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* If you wish to remove websites, select **Bin icon**.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (290).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-If you also have an existing document (in any supported format), you can also upload.
+(Optional) If you also have an existing document, you can also upload.
 
 * Chatlyst will treat this upload document as additional knowledge to enrich your knowledge base.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (293).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
@@ -66,7 +70,7 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 {% step %}
 Click **Create Knowledge** to proceed.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (294).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -78,19 +82,19 @@ Click **Create Knowledge** to proceed.
 {% step %}
 Select **Auto-fill or Upload**.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select **Enhance with Website**.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (297).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Input your website URL.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (298).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Each URL will consume 5 KC Bot Credits
@@ -98,15 +102,19 @@ Each URL will consume 5 KC Bot Credits
 
 * If you have multiple websites, click **Add Websites**.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (300).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+* If you wish to remove websites, select **Bin icon**.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (301).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-If you also have an existing document (in any supported format), you can also upload.
+(Optional) If you also have an existing document (in any supported format), you can also upload.
 
 * Chatlyst will treat this upload document as additional knowledge to enrich your knowledge base.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (303).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
@@ -116,6 +124,6 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 {% step %}
 Click **Re-create Knowledge** to proceed.
 
-\<image>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (304).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

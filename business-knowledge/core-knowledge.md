@@ -86,7 +86,7 @@ The standard file type is DOCX and can be edited in most word-processing apps.
      1. Locate the correct file and select it.
      2. Click **Create Knowledge** to begin processing.
 
-<div align="center"><img src="../.gitbook/assets/attachmentd9d357d0 31cf 4bc1 824c 5b9ce2f451aaScreenshot_2026 04 16_at_2.26.24_PM.png" alt="" width="375"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (284).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
@@ -97,7 +97,7 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 * The uploaded template tab turns light green.
 * The Template tag updates to **Active**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Email Alert — An email notification is sent when the document has finished processing.
