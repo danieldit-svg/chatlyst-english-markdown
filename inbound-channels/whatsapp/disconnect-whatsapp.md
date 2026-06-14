@@ -16,7 +16,7 @@ You must disconnect WhatsApp in both Chatlyst and the WhatsApp Business app.
 1. Go to Inbound Channel.
 2. Select the widget you want to disconnect from WhatsApp, then select **Configure**.
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachmenta82e853c 38bb 4006 b0d0 68d895f81d1cimage.png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (348).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 3. Select **Disconnect WhatsApp**.
 
