@@ -74,11 +74,11 @@ Users can update the following fields:
 * **Human Handoff** — controls what happens when the bot needs to pass the conversation back to a live agent. The default setting is **ON**.
   * When **ON**, the conversation stays open for a human takeover.
   * When **OFF**, the conversation closes automatically when the bot tries to hand it off.
-* **Handoff Message**
+* **Handoff Message** and **Handoff Unavailable Message**
   * If no custom message is set:&#x20;
-    * When Human Handoff setting is **ON**:\
+    * When Human Handoff setting is **ON**, **Handoff Message**:\
       &#xNAN;_“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
-    * When Human Handoff setting is **OFF**:\
+    * When Human Handoff setting is **OFF**, **Handoff Unavailable Message**:\
       &#xNAN;_“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
 * Language Support
   * There is currently no translation support for this feature. If multiple languages are needed, set the message for each language separately.
