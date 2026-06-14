@@ -35,7 +35,7 @@ icon: file
 
 </details>
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -60,7 +60,7 @@ Before uploading a template, determine whether an existing document is available
 The standard file type is DOCX and can be edited in most word-processing apps.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -78,7 +78,7 @@ The standard file type is DOCX and can be edited in most word-processing apps.
 
 1. Select **Auto-fill or Upload**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure></div>
 
 2. The system opens a window where you can choose either **Auto-fill with Website** or **Upload a File Directly**.
    * If you proceed with **Auto-fill**, follow the steps in the [Auto-fill](auto-fill.md).&#x20;
