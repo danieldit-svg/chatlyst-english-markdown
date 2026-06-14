@@ -84,6 +84,6 @@ After creating the account, Chatlyst prompts you to set up the company.
 
 3. Chatlyst opens the Home page after login.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

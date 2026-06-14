@@ -52,7 +52,7 @@ On the Log in page, choose a login method.
 
 After successful log in, Chatlyst opens the Home page.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
