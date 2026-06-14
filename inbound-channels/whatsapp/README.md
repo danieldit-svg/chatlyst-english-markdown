@@ -21,13 +21,7 @@ If you registered using the WhatsApp Business App, you will retain full access t
 
 <summary><strong>Incoming customer messages</strong></summary>
 
-* **Chatlyst**:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure></div>
-
-* **WhatsApp Business app**:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (247).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (339).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (340).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
 
 </details>
 
@@ -35,13 +29,7 @@ If you registered using the WhatsApp Business App, you will retain full access t
 
 <summary><strong>Bot-generated replies</strong></summary>
 
-* **Chatlyst**:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure></div>
-
-* **WhatsApp Business app**:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (249).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (341).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (343).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
 
 </details>
 
@@ -49,13 +37,7 @@ If you registered using the WhatsApp Business App, you will retain full access t
 
 <summary><strong>Live agent replies</strong></summary>
 
-* **Chatlyst**:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure></div>
-
-* **WhatsApp Business app**:
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (251).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (344).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (345).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
 
 </details>
 

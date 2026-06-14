@@ -19,7 +19,7 @@ This page also shows the widget’s current configuration, including appearance 
 {% hint style="info" %}
 Please note that the toggle switch is located in the top-right corner of the Overview page. Use it to enable or disable the widget.
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (338).png>)
 {% endhint %}
 
 ## Widget Management

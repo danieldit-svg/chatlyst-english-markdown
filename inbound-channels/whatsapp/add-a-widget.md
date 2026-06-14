@@ -16,7 +16,7 @@ Widget configuration includes three sections: [**Appearance**](add-a-widget.md#a
 {% hint style="info" %}
 Use the navigation tabs to move between **Appearance**, **Behavior**, and **Advanced**, and to quickly review or update specific sections.
 
-![](<../../.gitbook/assets/image (229).png>)
+![](<../../.gitbook/assets/image (346).png>)
 {% endhint %}
 
 {% stepper %}

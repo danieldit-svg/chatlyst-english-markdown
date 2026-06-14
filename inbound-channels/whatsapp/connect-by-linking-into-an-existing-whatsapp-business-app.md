@@ -55,7 +55,7 @@ Review what is shared with Effex
 {% hint style="info" %}
 For the WhatsApp channel, incoming messages in the Chat section will display the user’s name and phone number.
 
-![](<../../.gitbook/assets/image (245).png>)
+![](<../../.gitbook/assets/image (347).png>)
 {% endhint %}
 {% endstep %}
 
