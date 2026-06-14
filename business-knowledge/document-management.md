@@ -8,7 +8,7 @@ icon: file-circle-info
 # Document Management
 
 {% hint style="warning" %}
-**Important Note**: Uploaded documents cannot be deleted from the system. If a document must be removed for compliance, privacy, or other business reasons, contact the Chatlyst team at [hello@chatlyst.io](mailto:hello@chatlyst.io).
+**Important Note**: Uploaded documents cannot be deleted from the system. If a document must be removed for compliance, privacy, or other business reasons, contact [hello@chatlyst.io](mailto:hello@chatlyst.io).
 {% endhint %}
 
 ### Document Status
