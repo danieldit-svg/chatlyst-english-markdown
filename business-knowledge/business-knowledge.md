@@ -8,7 +8,7 @@ icon: book-blank
 
 # Business Knowledge
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Navigation tab — Use the navigation tab in the top-left corner of the page to switch between [Core Knowledge](core-knowledge.md) and [Additional Documents](additional-documents.md).
