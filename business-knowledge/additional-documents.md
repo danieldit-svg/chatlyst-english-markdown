@@ -17,7 +17,7 @@ icon: file-circle-plus
 {% step %}
 ### Upload Documents
 
-Select **Upload Document** or **Upload Your First Document**.&#x20;
+Select **Upload Additional Document** or **Upload Your First Document**.&#x20;
 
 Alternatively, you can upload it in the [Core Knowledge](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/business-knowledge) section.
 
@@ -29,7 +29,7 @@ In the upload window:
 
 1. Enter a clear document name.
 2. Attach the correct file.
-3. Select **Upload** to submit and start processing.
+3. Select **Create Knowledge** to submit and start processing.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (307).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
