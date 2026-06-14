@@ -21,11 +21,11 @@ Update your first and last name.
 1. Select **Edit**.
 2. Update **First Name** and **Last Name**.
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment32861c89 4d00 4c7c a63c 02c8f1303b87image (2).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure></div>
 
 3. Select **Save Changes** to apply the update (or select **Cancel** to discard changes).
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment4d8e491d bf80 4135 baba 457533a28c73image (2).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you signed in using Google (or another method), the Account Information tab shows Connected Accounts.
@@ -49,7 +49,7 @@ Password requirements:
 * At least one lowercase letter
 * At least one number
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment9b93a868 883b 43cb b1be cf220884c6aeimage (2).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you signed in using another method (for example, Google), you can still add a password so you can also sign in with email and password in the future.

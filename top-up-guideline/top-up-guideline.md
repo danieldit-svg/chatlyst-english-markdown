@@ -22,19 +22,19 @@ Users can open the Top up page in several ways. Choose the option that is fastes
   * This shortcut is useful when credits are running low.
   * It also shows the remaining credit balance.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 After selecting **Top up**, Chatlyst redirects to the Billing page. Then select the credit type to purchase.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 In the Credit tab, users can review available credits and see a Low Balance reminder in the top-right corner when credits are running low.
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment804b269e 40b3 43ad 81d2 3be0fd89ff03image (2).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -44,37 +44,37 @@ The Purchase Credits window appears after selecting the credit type.
 A minimum purchase amount of HKD 50 per transaction applies, including cases where the amount is equivalent to HKD 50.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (13).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (368).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 (Optional) Switch credit type or top up both credit types. Use the toggles on the right side of the window.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (369).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Review recent usage (last 30 days) to understand how quickly credits are consumed.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (371).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Review pricing tiers for the selected credit type. Select View KC Pricing Tiers or View AI Pricing Tier to expand the pricing list. Compare the available tiers and the included credits before continuing.
 
-<div><figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Drag the slider to set an amount, or enter an exact number in the input field.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (375).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Review the purchase summary to confirm the credit amount and total cost, then select **Pay**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (376).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the amount does not meet the minimum payment requirement of HKD 50, the Pay option is disabled and displayed in grey.
@@ -112,7 +112,7 @@ In the Complete Purchase window, enter payment details, then select **Pay** to s
 
 * After the purchase is complete, Chatlyst redirects back to the [Billing](../settings/billing.md) page. Confirm the purchase in Transaction History, where the new purchase record appears.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure></div>
 
 * Chatlyst will also send a receipt to your email with downloadable links for both the invoice and receipt.
 
