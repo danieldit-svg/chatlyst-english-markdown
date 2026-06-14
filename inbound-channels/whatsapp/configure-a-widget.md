@@ -17,7 +17,7 @@ This page also shows the widget’s current configuration.
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Please note that **Disconnect WhatsApp** is located next to the widget status Overview page. Use it to disconnect WhatsApp.
+Please note that [**Disconnect WhatsApp**](disconnect-whatsapp.md) is located next to the widget status Overview page. Use it to disconnect WhatsApp.
 
 ![](<../../.gitbook/assets/image (352).png>)
 {% endhint %}
