@@ -104,7 +104,7 @@ The exported CSV includes the following columns:
 * AI Response Used
 * KC Bot Used
 * Messages
-* Cost
+* Cost (Currency)
 
 An example template is shown below:
 
