@@ -84,9 +84,7 @@ Select the **expand menu (arrow-down icon)** to open Document Details and review
 
 Select the **History (anti-clockwise** **icon)** to open Version History. Each version is listed for review.
 
-<figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure></div>
 
 In the Version History window, select **Preview (eye icon)** to preview a version. Select **Activate** to replace the current document with the selected version.
 
