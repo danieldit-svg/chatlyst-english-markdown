@@ -50,7 +50,7 @@ Each URL will consume 5 KC Bot Credits
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (289).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* If you wish to remove websites, select **Bin icon**.
+* If you wish to remove websites, select **Delete (bin icon)**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (290).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
@@ -82,7 +82,7 @@ Click **Create Knowledge** to proceed, then select **Confirm Create** in the nex
 {% step %}
 Select **Auto-fill or Upload**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -104,7 +104,7 @@ Each URL will consume 5 KC Bot Credits
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (300).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* If you wish to remove websites, select **Bin icon**.
+* If you wish to remove websites, select **Delete (bin icon)**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (301).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
