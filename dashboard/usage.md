@@ -120,7 +120,7 @@ If your CSV file cannot display Chinese characters, follow the steps below based
 
 * Google Sheets — No issues expected. Simply import the file and Chinese characters will display normally.
 * Pages — No issues expected. Simply open the file and Chinese characters will display normally.
-* Excel  — Chinese characters may not display correctly by default. Use one of these methods:
+* Excel  — Chinese characters may not display correctly by default. Use one of these methods: [Import via File Tab](usage.md#method-1-import-via-file-tab) or [Import via Data Tab](usage.md#method-2-import-via-data-tab)
 
 #### Method 1: Import via File Tab
 
