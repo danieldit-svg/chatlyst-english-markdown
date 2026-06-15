@@ -113,3 +113,77 @@ An example template is shown below:
 | 2026-04-16 | 10               | 1           | 12       | 3.64       |
 | 2026-04-17 | 7                | 1           | 7        | 3.21       |
 | 2026-04-20 | 5                | 3           | 5        | 7.32       |
+
+#### Troubleshooting Chinese Display Issues <a href="#csv-troubleshooting-chinese-display-issues" id="csv-troubleshooting-chinese-display-issues"></a>
+
+If your CSV file cannot display Chinese characters, follow the steps below based on your software.
+
+* Google Sheets — No issues expected. Simply import the file and Chinese characters will display normally.
+* Pages — No issues expected. Simply open the file and Chinese characters will display normally.
+* Excel  — Chinese characters may not display correctly by default. Use one of these methods:
+
+#### Method 1: Import via Blank Workbook
+
+{% stepper %}
+{% step %}
+Open a New Blank Workbook.
+{% endstep %}
+
+{% step %}
+Go to **File** and select **Import**.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+Select CSV file and click **Import**, then locate the CSV and select **Get Data** to proceed.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (383).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+When the Text Import Wizard appears:
+
+1. Set **File Origin** to: 65001: Unicode (UTF-8), then select **Next**.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (384).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+2. Tick **Comma** as the Delimiters, select **Finish**.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (385).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
+
+#### **Method 2: Import via Data Tab**
+
+{% stepper %}
+{% step %}
+Open a New Blank Workbook.
+{% endstep %}
+
+{% step %}
+Go to **Data** then **Get Data (Power Query)**, select **From Text (Legacy)**
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure></div>
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+Locate the CSV and select **Get Data** to proceed.
+{% endstep %}
+
+{% step %}
+When the Text Import Wizard appears:
+
+1. Set **File Origin** to: 65001: Unicode (UTF-8), then select **Next**.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (384).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+2. Tick **Comma** as the Delimiters, select **Finish**.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (385).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
