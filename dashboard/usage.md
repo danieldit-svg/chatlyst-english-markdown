@@ -122,7 +122,7 @@ If your CSV file cannot display Chinese characters, follow the steps below based
 * Pages — No issues expected. Simply open the file and Chinese characters will display normally.
 * Excel  — Chinese characters may not display correctly by default. Use one of these methods:
 
-#### Method 1: Import
+#### Method 1: Import via File Tab
 
 {% stepper %}
 {% step %}
