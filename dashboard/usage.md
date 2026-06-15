@@ -146,7 +146,7 @@ Select CSV file and click **Import**, then locate the CSV and select **Get Data*
 {% step %}
 When the Text Import Wizard appears:
 
-1. Set **File Origin** to: 65001: Unicode (UTF-8), then select **Next**.&#x20;
+1. Set **File Origin** to: **Unicode (UTF-8)**, then select **Next**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (384).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -178,7 +178,7 @@ Locate the CSV and select **Get Data** to proceed.
 {% step %}
 When the Text Import Wizard appears:
 
-1. Set **File Origin** to: 65001: Unicode (UTF-8), then select **Next**.&#x20;
+1. Set **File Origin** to: **Unicode (UTF-8)**, then select **Next**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (384).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
