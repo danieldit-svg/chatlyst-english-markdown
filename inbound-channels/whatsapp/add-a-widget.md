@@ -11,7 +11,7 @@ In the WhatsApp channel, select **Add Widget (Connect Whatsapp Number)**.
 
 Widget configuration includes three sections: [**Appearance**](add-a-widget.md#appearance), [**Behavior**](add-a-widget.md#behavior), and [**Advanced**](add-a-widget.md#advanced).
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment32353f34 047d 4c9a abc4 377b8a8f95caimage.png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Use the navigation tabs to move between **Appearance**, **Behavior**, and **Advanced**, and to quickly review or update specific sections.
@@ -28,7 +28,7 @@ Users can update the following fields:
 * **Company Display Name** — the public-facing name shown in the widget header.
 * **Widget Name** — an internal name used to manage multiple widgets.
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment9c7c4298 48e6 45d1 8bde 73f625e892cbimage.png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -70,7 +70,7 @@ The default is 30 messages per session, with a minimum of 10.
 The default value is 1,440 minutes (24 hours). This is the recommended settings. For WhatsApp channel, this value cannot exceed 1440 minutes.
 {% endhint %}
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment6fa2d13d a84d 45f8 b73a c0e78fa1af88image.png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -78,7 +78,7 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 
 After finishing configuration, select **Create**.
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment912aa1ec 97d6 4a8f 8c2c 1bd31ccd689bimage.png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
