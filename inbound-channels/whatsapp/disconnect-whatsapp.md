@@ -1,6 +1,6 @@
 ---
 description: This guide explains how to disconnect WhatsApp from Chatlyst.
-icon: square-whatsapp
+icon: link-slash
 ---
 
 # Disconnect WhatsApp

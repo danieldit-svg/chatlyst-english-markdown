@@ -54,9 +54,23 @@ Chatlyst does not sync historical messages from the WhatsApp Business App. Only 
 
 #### **Multimedia Messages**
 
-Chatlyst currently does not support the display of multimedia content (e.g., images, videos, files).
+Chatlyst supports image, video, file, location, and contact sharing.
 
-* To view multimedia messages sent by customers, please access the conversation directly in the WhatsApp Business App.
+<details>
+
+<summary><strong>Location Sharing</strong></summary>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (495).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary><strong>Contact Sharing</strong></summary>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (497).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+</details>
 
 ***
 

@@ -9,14 +9,17 @@ icon: arrow-up-to-bracket
 
 Use this page to review available channels, enable or disable channels as needed, and confirm the widget experience is configured correctly before going live.
 
+{% hint style="info" %}
+Chatlyst supports a wide range of multimedia messages, allowing users to share images, videos, and files smoothly. However, some widgets do not support location sharing or contact sharing.
+{% endhint %}
+
 Supported channels include:
 
 * [Website Embed](website-embed/)
 * [WhatsApp](whatsapp/)
+* [LINE](line/)
 * Shopify (Coming Soon)
 * WordPress (Coming Soon)
 * Facebook (Coming Soon)
 * Instagram (Coming Soon)
 * Telegram (Coming Soon)
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure></div>

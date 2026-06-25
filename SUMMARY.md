@@ -52,6 +52,11 @@
   * [Connect by Creating a Whatsapp Business Account](inbound-channels/whatsapp/connect-by-creating-a-whatsapp-business-account.md)
   * [Disconnect WhatsApp](inbound-channels/whatsapp/disconnect-whatsapp.md)
   * [Configure a Widget](inbound-channels/whatsapp/configure-a-widget.md)
+* [LINE](inbound-channels/line/README.md)
+  * [Add a Widget](inbound-channels/line/add-a-widget.md)
+  * [Set Up LINE Messaging API Credentials](inbound-channels/line/set-up-line-messaging-api-credentials.md)
+  * [Disconnect LINE](inbound-channels/line/disconnect-line.md)
+  * [Configure a Widget](inbound-channels/line/configure-a-widget.md)
 
 ## SETTINGS
 
