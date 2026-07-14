@@ -35,7 +35,7 @@ Training Panel Notification — Shows the current number of pending training tic
 
 Testing Area provides a space to test the bot and confirm performance before rolling out changes. It supports both the live Widget Preview and Streaming Mode, so conversations can run in real time while responses are checked for accuracy, usefulness, and consistency.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/Your paragraph text (6).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Controls
 

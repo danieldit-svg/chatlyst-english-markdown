@@ -9,7 +9,7 @@ icon: dumbbell
 
 Training Area is the central place to process training after feedback is submitted during testing.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
@@ -23,7 +23,7 @@ Review tickets in several ways:
 * Select a ticket from [Ticket List](train-documents.md#ticket-list) for a focused review.
 * Open the [Training Panel](train-documents.md#training-panel) to manage tickets in one place.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure></div>
 
 <details>
 

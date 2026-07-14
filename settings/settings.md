@@ -4,7 +4,7 @@ icon: gear
 
 # Settings
 
-Use Settings to manage [Profile](profile.md), [Company](company.md), [Team](team.md), and [Billing](billing.md) in one place. Review and update key information for your account and workspace, including personal details, company profile, team roles, and billing activity.
+Use Settings to manage [Profile](profile.md), [Company](company.md), [Team](team.md), [Customer Attribute](customer-attributes.md) and [Billing](billing.md) in one place. Review and update key information for your account and workspace.
 
 ## Settings
 

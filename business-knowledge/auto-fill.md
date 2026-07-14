@@ -16,10 +16,6 @@ You can use Auto-fill:
 * **At the beginning** to [create Core Knowledge](auto-fill.md#first-time-setup-create-new-knowledge)
 * **Periodically** to [update and enhance that knowledge](auto-fill.md#updating-existing-knowledge-enhance-with-website)
 
-{% hint style="info" %}
-Auto-fill feature requires additional setup before it can be enabled. Please contact [hello@chatlyst.io](mailto:hello@chatlyst.io) for details.
-{% endhint %}
-
 ***
 
 ### First-Time Setup <a href="#first-time-setup-create-new-knowledge" id="first-time-setup-create-new-knowledge"></a>

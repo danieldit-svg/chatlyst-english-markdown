@@ -21,6 +21,13 @@
 * [Conversation Panel](chat/conversation-panel.md)
 * [Labels and Statuses](chat/labels-and-statuses.md)
 * [Additional Options by Status](chat/additional-options-by-status.md)
+* [Customer Details](chat/customer-details.md)
+
+## CUSTOMERS
+
+* [Customers](customers/customers.md)
+* [Customer List](customers/customer-list.md)
+* [Customer Panel](customers/customer-panel.md)
 
 ## BUSINESS KNOWLEDGE
 
@@ -64,6 +71,7 @@
 * [Profile](settings/profile.md)
 * [Company](settings/company.md)
 * [Team](settings/team.md)
+* [Customer Attributes](settings/customer-attributes.md)
 * [Billing](settings/billing.md)
 
 ## TOP UP GUIDELINE

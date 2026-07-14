@@ -117,7 +117,7 @@ Link the WhatsApp Business app (QR code)
 When your account connects successfully, you will see a confirmation message on your computer and phone.
 
 {% hint style="warning" %}
-If you are unable to connect, please contact hello@chatlyst.io
+If you are unable to connect, please contact [Chatlyst Support](../../getting-started/home.md#chatlyst-support) for assistance.
 {% endhint %}
 
 * On your computer:

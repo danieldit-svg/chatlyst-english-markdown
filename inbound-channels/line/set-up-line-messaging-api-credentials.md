@@ -212,7 +212,7 @@ Enter this webhook URL: `https://chat-api.effex.co/line/` and select Update.
 **Verify** the webhook URL. A success message will appear if the verification is successful.
 
 {% hint style="warning" %}
-If the URL is unable to verify, please contact hello@chatlyst.io
+If the URL is unable to verify, please contact [Chatlyst Support](../../getting-started/home.md#chatlyst-support) for assistance.
 {% endhint %}
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure></div>
