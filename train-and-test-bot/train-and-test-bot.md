@@ -41,11 +41,21 @@ Testing Area provides a space to test the bot and confirm performance before rol
 
 <details>
 
+<summary><strong>Auto Test</strong></summary>
+
+Select **Auto Test** to start an automated test conversation, so Chatlyst can simulate a real user and show how your bot responds without any manual input.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
 <summary><strong>New Chat</strong></summary>
 
 Select to start a new chat session while training, so testing starts from a clean conversation without earlier messages or context.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -55,7 +65,7 @@ Select to start a new chat session while training, so testing starts from a clea
 
 Located next to **New Chat**. Select the widget to test in this session.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 

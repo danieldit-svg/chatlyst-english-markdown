@@ -40,6 +40,7 @@
 ## TRAIN & TEST BOT
 
 * [Train & Test bot](train-and-test-bot/train-and-test-bot.md)
+* [Auto Test](train-and-test-bot/auto-test.md)
 * [Training Feedback](train-and-test-bot/training-feedback.md)
 * [Train Documents](train-and-test-bot/train-documents.md)
 * [Training Note Handling](train-and-test-bot/training-note-handling.md)
