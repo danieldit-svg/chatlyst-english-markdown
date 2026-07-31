@@ -19,19 +19,19 @@ During setup, use two LINE pages:
 
 Go to the [<mark style="background-color:cyan;">LINE Developers Console</mark>](https://developers.line.biz/) and select **Log in to Console.**
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Login with your LINE account.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 LINE supports sign-in by email address or QR code. In this example, will use QR code as login method.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (471).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -39,53 +39,53 @@ Scan the QR code with your phone to proceed.
 
 * On your computer:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (473).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure></div>
 
 * On your phone:
 
 1. Select LINE on your phone
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (474).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (482).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2. Select Scan button on the top-right corner, then scan the QR code on your computer.&#x20;
 
-<div><figure><img src="../../.gitbook/assets/image (475).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (484).png" alt=""><figcaption></figcaption></figure></div>
 
 3. After scanning, select **Log in** to proceed.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (477).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (485).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 4. Enter the verification code from LINE.
 
 * On your computer:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (486).png" alt=""><figcaption></figcaption></figure></div>
 
 * On your phone:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (479).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (487).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 After sign-in, **Create Business ID**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (489).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Input **Developer name**, **Your email** and tick the box of **LINE Developers Agreement**, then select **Create my account**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select **Create a new provider**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (484).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (492).png" alt=""><figcaption></figcaption></figure></div>
 
 * Enter **Provider name** and select **Create** to proceed.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (486).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (494).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -101,53 +101,53 @@ Select **Create a Messaging API** **channel** and then select **Create a LINE Of
 You will be redirected to the <mark style="background-color:orange;">LINE Official Account Manager</mark>. Please keep the <mark style="background-color:cyan;">LINE Developers</mark> page open in your current browser.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (488).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 In the <mark style="background-color:orange;">LINE Official Account Manager</mark> site, select **Verify by text message** to continue.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (492).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (500).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * Enter your phone number registered to your LINE account, then select **Send text message**. A verification code will be sent by SMS; enter the code and continue.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (493).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (501).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Enter the details for your LINE Official Account and select **Continue**. Then complete the LINE setup and select **Go to LINE Official Account Manager** to move to the next step.
 
-<div><figure><img src="../../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 In <mark style="background-color:orange;">LINE Official Account Manager</mark>, select **Settings** in the top right corner.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (445).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 1. Select **Messaging API** from the left menu in **Settings**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Select **Enable Messaging API** and turn it on for the official account.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (448).png" alt=""><figcaption></figcaption></figure></div>
 
 3. Choose the provider you created, then confirm the setup.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (441).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (449).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 4. (Optional) Enter Privacy Policy and Terms of Use, select **OK**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (442).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (450).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 5. Select **OK** to confirm and finish enabling the Messaging API.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (451).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -159,19 +159,19 @@ In <mark style="background-color:orange;">LINE Official Account Manager</mark>, 
 
 Go back to the <mark style="background-color:cyan;">LINE Developers Console</mark> and open the Messaging API channel.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 In **Basic settings**, find **Channel secret** and copy it.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (447).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Paste that value into the **LINE Channel Secret** field in Chatlyst.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (404).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (412).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -179,13 +179,13 @@ Next, go to **Messaging API** tab and find **Channel access token (long-lived)**
 
 * Select **Issue**, then copy the token that is generated.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (448).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Paste that value into the **LINE Channel Access Token** field in Chatlyst, then select **Save**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (403).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (411).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -199,13 +199,13 @@ In the <mark style="background-color:cyan;">LINE Developers Console</mark>, open
 
 * In **Webhook settings**, select **Edit**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Enter this webhook URL: `https://chat-api.effex.co/line/` and select Update.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -215,13 +215,13 @@ Enter this webhook URL: `https://chat-api.effex.co/line/` and select Update.
 If the URL is unable to verify, please contact [Chatlyst Support](../../getting-started/home.md#chatlyst-support) for assistance.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Turn on **Use webhook**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -233,22 +233,22 @@ Turn on **Use webhook**.
 
 Open the <mark style="background-color:orange;">LINE Official Account Manager</mark>, go to **Settings** → **Response settings**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 1. Turn off **Auto-response messages**
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Then turn on **Webhook** and **Chat**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 The LINE channel is set up and ready to use.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

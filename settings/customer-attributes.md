@@ -8,7 +8,7 @@ icon: creative-commons-by
 
 # Customer Attributes
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Create Custom Attributes
 
@@ -16,7 +16,7 @@ icon: creative-commons-by
 {% step %}
 Select **+ Add Attribute**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -24,7 +24,7 @@ Chatlyst opens the **Predefine Customer Attribute** window.
 
 
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (571).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (579).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -36,7 +36,7 @@ Enter the **Display Name** of the attribute. The **Attribute Key** is generated 
 It is recommended to use the automatically generated **Attribute Key**. Do not enter the key manually, as the system-generated key is more consistent and less error‑prone.&#x20;
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (572).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (580).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -50,7 +50,7 @@ Select a **Data Type**: **String (Text)** or **Number**.
 * The selected data type controls how the attribute can be filtered later. For more information, see [Filters](../customers/customer-list.md#filters).
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (573).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (581).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -59,16 +59,16 @@ Enter **Description** for the attribute.&#x20;
 {% hint style="info" %}
 Chatlyst uses this description to auto-fetch relevant information from customer conversations and consolidate it into the attribute value. If there are limits or conditions for how this attribute should be interpreted, add them in square brackets **\[a, b and c]** at the end of the description to keep the fetched data accurate. For more information, see [Auto-Update Customer Attributes](customer-attributes.md#auto-update-customer-attributes).
 
-![](<../.gitbook/assets/image (516).png>)
+![](<../.gitbook/assets/image (524).png>)
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (574).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (582).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select **Create Attribute** to save it, or **Cancel** to discard it.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (592).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (600).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -82,19 +82,19 @@ Select **Create Attribute** to save it, or **Cancel** to discard it.
 {% step %}
 Select the attribute from the list, then select the **pencil icon** next to the attribute you want to edit.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (576).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Chatlyst opens the **Edit Customer Attribute** window. Update the **Display Name** and **Description** as needed.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (577).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (585).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select **Save** **Changes** to apply the update, or **Cancel** to discard it.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (591).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (599).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -104,13 +104,13 @@ Select **Save** **Changes** to apply the update, or **Cancel** to discard it.
 {% step %}
 Select the attribute from the list, then select the **bin icon** next to the attribute you want to remove.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (579).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Chatlyst shows a confirmation message asking you to confirm deletion. Select **OK** to remove the attribute, or **Cancel** to keep it.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **Deleted custom attributes:** If a custom attribute is deleted, it remains on any customers who already had that attribute applied. If you need to remove it from existing customers, contact [Chatlyst Support](../getting-started/home.md#chatlyst-support) for assistance.
@@ -124,7 +124,7 @@ Chatlyst can automatically parse customer interaction logs to extract and update
 
 This helps reduce manual data entry and human error when updating customer profiles. Because most conversations mention the customer’s name and basic contact details, auto‑update also helps avoid anonymous records in the Chat section and improves overall management of customer profiles.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Update Frequency Settings
 
@@ -136,7 +136,7 @@ If **Auto‑Update Customer Attributes** is enabled, it consumes an additional A
 There is **no extra charge** tied directly to the chosen update interval. Setting the update to run every 3 hours does **not** mean credits are charged automatically every 3 hours.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 **Important Note**: If the business requires more frequent updates or a specific time frame that is not covered by the default options, contact [Chatlyst Support](../getting-started/home.md#chatlyst-support) for assistance..
@@ -148,7 +148,7 @@ There is **no extra charge** tied directly to the chosen update interval. Settin
 {% step %}
 A custom attribute is predefined: **preferred language** and Update Frequency is set to **Every 3 Hours**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (590).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (598).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

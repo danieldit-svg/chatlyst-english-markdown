@@ -18,7 +18,7 @@ Select **Train Now** in the top-right of the Training Panel.
 {% step %}
 Review the ticket list in the training window. In this example, All document types with a Pending status are selected.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -30,16 +30,16 @@ Select the tickets to train:
 {% hint style="info" %}
 Document type selection can still be adjusted at this stage.
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (52).png>)
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (90).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select **Train 6 Selected Tickets** to proceed to the [Training Method](training-method.md).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (91).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (99).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 {% endstep %}
@@ -63,7 +63,7 @@ Select a ticket from the Training Panel list to open the ticket details.
 {% step %}
 Review the ticket details (question, answer, training note, and related document), or Edit Training Note if needed.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (106).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

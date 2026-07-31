@@ -8,7 +8,7 @@ icon: whatsapp
 
 After you create a widget, the next page opens automatically so you can review the widget details.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Connect by Linking into an Existing Whatsapp Business App
 
@@ -55,7 +55,7 @@ Review what is shared with Effex
 {% hint style="info" %}
 For the WhatsApp channel, incoming messages in the Chat section will display the user’s name and phone number.
 
-![](<../../.gitbook/assets/image (347).png>)
+![](<../../.gitbook/assets/image (355).png>)
 {% endhint %}
 {% endstep %}
 
@@ -132,6 +132,6 @@ If you are unable to connect, please contact [Chatlyst Support](../../getting-st
 {% step %}
 The widget status in Chatlyst changes from **Draft** to **Active**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

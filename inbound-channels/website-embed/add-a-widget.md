@@ -18,7 +18,7 @@ Widget configuration includes three sections: [Appearance](add-a-widget.md#appea
 {% hint style="info" %}
 Navigation tab — use this tab to move between [Appearance](add-a-widget.md#appearance), [Behavior](add-a-widget.md#behavior), and [Advanced](add-a-widget.md#advanced), and quickly review or update specific sections.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (53).png>)
 {% endhint %}
 
 {% stepper %}
@@ -77,13 +77,13 @@ Users can update the following fields:
 * **Handoff Message** and **Handoff Unavailable Message**
   * If no custom message is set:&#x20;
     * When Human Handoff setting is **ON**, **Handoff Message**:\
-      &#xNAN;_“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
+      _“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
     * When Human Handoff setting is **OFF**, **Handoff Unavailable Message**:\
-      &#xNAN;_“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
+      _“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
 * Language Support
   * There is currently no translation support for this feature. If multiple languages are needed, set the message for each language separately.
 
-<div><figure><img src="../../.gitbook/assets/image (269).png" alt="" width="321"><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (270).png" alt="" width="325"><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (277).png" alt="" width="321"><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (278).png" alt="" width="325"><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -103,7 +103,7 @@ The default is 30 messages per session, with a minimum of 10.
 The default value is 1,440 minutes (24 hours). This is the recommended settings.&#x20;
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (337).png" alt="" width="324"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (345).png" alt="" width="324"><figcaption></figcaption></figure></div>
 
 <details>
 
@@ -112,7 +112,7 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 * When the session times out, the widget prompts visitors to start a new conversation so chatting can continue after the previous session expires.
 * A timed-out session closes automatically in Chat and no longer appears as an active conversation.
 
-<p align="center"><img src="../../.gitbook/assets/image (46).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (54).png" alt=""></p>
 
 </details>
 {% endstep %}
@@ -122,7 +122,7 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 
 After finishing configuration, select **Create**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (109).png" alt="" width="245"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (117).png" alt="" width="245"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -130,16 +130,16 @@ After finishing configuration, select **Create**.
 
 After a widget is created, the next page opens automatically so the widget details and activation steps can be reviewed.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure></div>
 
 1. In the Widget Configuration tab (in the middle of the page), confirm the widget status shows **Draft** (inactive).
 2. In the **Embed Code** tab (at the bottom of the page), review the inactive reminder message.
 3. To activate the widget, toggle it on in the top-right corner.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure></div>
 
 4. Confirm the widget status changes from **Draft** to **Active** and the inactive reminder message no longer appears.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

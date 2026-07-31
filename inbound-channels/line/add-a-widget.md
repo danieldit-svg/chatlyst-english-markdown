@@ -7,16 +7,16 @@ icon: rectangle-plus
 
 In the LINE channel, select **Add Widget (Connect LINE Account)**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (459).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (467).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Widget configuration includes three sections: [**Appearance**](add-a-widget.md#appearance), [**Behavior**](add-a-widget.md#behavior), and [**Advanced**](add-a-widget.md#advanced).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Use the navigation tabs to move between **Appearance**, **Behavior**, and **Advanced**, and to quickly review or update specific sections.
 
-![](<../../.gitbook/assets/image (346).png>)
+![](<../../.gitbook/assets/image (354).png>)
 {% endhint %}
 
 {% stepper %}
@@ -28,7 +28,7 @@ Users can update the following fields:
 * **Company Display Name** — the public-facing name shown in the widget header.
 * **Widget Name** — an internal name used to manage multiple widgets.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (598).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -42,15 +42,15 @@ Users can update the following fields:
 * **Handoff Message** and **Handoff Unavailable Message**
   * If no custom message is set:&#x20;
     * When Human Handoff setting is **ON**, **Handoff Message**:\
-      &#xNAN;_“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
+      _“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
     * When Human Handoff setting is **OFF**, **Handoff Unavailable Message**:\
-      &#xNAN;_“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
+      _“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
 * Language Support
   * There is currently no translation support for this feature. If multiple languages are needed, set the message for each language separately.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (463).png" alt=""><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (471).png" alt=""><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (464).png" alt=""><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (472).png" alt=""><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -70,7 +70,7 @@ The default is 30 messages per session, with a minimum of 10.
 The default value is 1,440 minutes (24 hours). This is the recommended settings. For LINE channel, this value cannot exceed 1440 minutes.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -78,7 +78,7 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 
 After finishing configuration, select **Create**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (608).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -86,6 +86,6 @@ After finishing configuration, select **Create**.
 
 After selecting **Create**, the **LINE Settings** window opens. In this window, the user is guided step by step through the setup of LINE Messaging API credentials and the widget connection. Follow more on [Set Up LINE Messaging API Credentials](set-up-line-messaging-api-credentials.md).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (402).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

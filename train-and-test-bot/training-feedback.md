@@ -21,7 +21,7 @@ icon: message-plus
 If you need to change your rating in the Provide Training Feedback form, simply select the other option.
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/image (101).png" alt="" width="375"><figcaption><p>Train &#x26; Test bot</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (99).png" alt="" width="375"><figcaption><p>Provide Training Feedback form</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (109).png" alt="" width="375"><figcaption><p>Train &#x26; Test bot</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (107).png" alt="" width="375"><figcaption><p>Provide Training Feedback form</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -40,7 +40,7 @@ Describe the issue and provide the right answer
 2. Then, explain the correct behaviour and what the reply should include.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (100).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (108).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -52,7 +52,7 @@ Describe the issue and provide the right answer
 2. Use the search bar to find a document, or choose from the list.
    * If the feedback relates to more than one source, select multiple documents.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (102).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (110).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

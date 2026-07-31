@@ -11,7 +11,7 @@ In addition to reading the conversation history, the Conversation Panel lets a t
 
 Conversation Status appears in the top-right corner of the Conversation Panel.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (505).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -19,7 +19,7 @@ Conversation Status appears in the top-right corner of the Conversation Panel.
 
 Additional Options provides quick access to key actions, such as Pin, Snooze, Unsnooze, Hand Back to AI, and Close. Additional Options appears in the top-right corner of the Conversation Panel. Follow more on [Additional Options by status](additional-options-by-status.md).&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -27,7 +27,7 @@ Additional Options provides quick access to key actions, such as Pin, Snooze, Un
 
 Customer details provide an overall view of the customer, including Contact Info, Platform Context, Custom Attributes and Notes. Select Customer Details in the top-right corner (next to Additional Options) to open this view. For more information, see [Customer Details](customer-details.md).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -35,11 +35,11 @@ Customer details provide an overall view of the customer, including Contact Info
 
 Provide training feedback on bot and agent responses in context. Training feedback can be submitted using the same workflow as the [Train & Test bot](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/train-and-test-bot).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20;The Provide Training Feedback window appears after negative feedback is submitted.
 
-<div align="center" data-with-frame="true"><figure><img src="../.gitbook/assets/image (62).png" alt="" width="359"><figcaption></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../.gitbook/assets/image (70).png" alt="" width="359"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -53,4 +53,4 @@ After joining:
 * The agent can review the existing message history
 * The agent can reply using the Input Field
 
-<div><figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure></div>

@@ -6,12 +6,12 @@ icon: address-card
 
 Profile opens first in Settings. Use this section to update personal account details, change your password, manage notifications, and adjust other account preferences.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Navigation tabs — let you switch between [Profile](profile.md), [Company](company.md), [Team](team.md), and [Billing](billing.md) without returning to Home.
 
-![](<../.gitbook/assets/image (51).png>)
+![](<../.gitbook/assets/image (59).png>)
 {% endhint %}
 
 ### Account Information
@@ -21,16 +21,16 @@ Update your first and last name.
 1. Select **Edit**.
 2. Update **First Name** and **Last Name**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure></div>
 
 3. Select **Save Changes** to apply the update (or select **Cancel** to discard changes).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you signed in using Google (or another method), the Account Information tab shows Connected Accounts.
 
-![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (60).png>)
 {% endhint %}
 
 ### Change Password
@@ -49,12 +49,12 @@ Password requirements:
 * At least one lowercase letter
 * At least one number
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If you signed in using another method (for example, Google), you can still add a password so you can also sign in with email and password in the future.
 
-![](<../.gitbook/assets/image (53).png>)
+![](<../.gitbook/assets/image (61).png>)
 {% endhint %}
 
 ### Notification Preferences
@@ -73,13 +73,13 @@ Choose how Chatlyst looks on your device.
 1. Select **Light**, **Dark**, or **System**.
 2. Select **System** to match your device’s current appearance settings. Chatlyst updates automatically if you change your device theme later.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Onboarding Tour
 
 Select **Restart Onboarding Tour** to review step tour.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Locale Preferences
 

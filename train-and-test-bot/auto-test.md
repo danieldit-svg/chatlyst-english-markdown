@@ -30,19 +30,19 @@ Start with shorter simulations (fewer messages) to quickly spot obvious issues, 
 {% step %}
 Choose the **widget** you want to test.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (618).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (626).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select **Auto Test**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (619).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (627).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Chatlyst will open the Auto Test Bot Simulation window, where you can configure the simulated user.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (604).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (612).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -62,7 +62,7 @@ Set up the test **Persona**.
 
 </details>
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (605).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (613).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -74,7 +74,7 @@ Define the **Scenario**.
 The scenario acts like a script prompt, guiding the simulated user’s behavior in the conversation. Scenarios cover common customer enquiries across different industries, such as E‑Commerce, SaaS, services, and general questions.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (606).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (614).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -82,7 +82,7 @@ Choose the **Language**.
 
 * Select the language the simulated user will use, such as English, Traditional Chinese, or another supported language.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (607).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (615).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -100,7 +100,7 @@ Use Max Messages to control:
 * How detailed or deep the scenario exploration should be.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (609).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (617).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -116,7 +116,7 @@ After reviewing these details, Select **Start Simulation** to begin the test.
 The estimated credits represent a projection of what might be required. To view the exact number of credits consumed after the test, navigate to [Billing](../settings/billing.md).
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (610).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (618).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -126,7 +126,7 @@ Once initiated, Chatlyst automatically generates the entire conversation between
 
 * No manual typing, sending, or replying is required. The system handles the entire exchange.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (620).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (628).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -136,7 +136,7 @@ Once initiated, Chatlyst automatically generates the entire conversation between
 
 After a simulation (a test run of the bot) completes, use the Review screen to evaluate the conversation and train the bot for better accuracy.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (622).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (630).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 The conversation view to read the full message-by-message dialogue. As you read through the interaction, complete the following steps to evaluate and improve the bot:
 
@@ -154,7 +154,7 @@ Select **Thumbs Up** or **Thumbs Down** for each answer to continuously train th
 
 * If a bot response is incorrect or unhelpful, select the **Thumbs Down** to log a poor rating. For further instructions, refer to the [Training Feedback](training-feedback.md).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (623).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (631).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -166,7 +166,7 @@ Select **Thumbs Up** or **Thumbs Down** for each answer to continuously train th
 
 * Select **Auto Test** or **Run Simulation Again** and set up a brand-new persona, scenario, or language.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (624).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (632).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 #### History
 
@@ -175,4 +175,4 @@ All Auto Test runs are saved in [**History**](auto-test.md#history), so you can:
 * Review past simulations at any time.
 * Compare older and newer runs to see how training is improving the bot.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure></div>

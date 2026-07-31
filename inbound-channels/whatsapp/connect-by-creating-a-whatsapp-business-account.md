@@ -8,7 +8,7 @@ icon: whatsapp
 
 After you create a widget, the next page opens automatically so you can review the widget details.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Connect by Creating a Whatsapp Business Account
 
@@ -16,7 +16,7 @@ After you create a widget, the next page opens automatically so you can review t
 {% step %}
 Select **Connect with WhatsApp**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure></div>
 
 In the Meta window, log in to your Facebook account (if required). When prompted, connect with Effex, then select **Continue**.
 
@@ -115,6 +115,6 @@ In Chatlyst, enter the WhatsApp code you received earlier in the registration PI
 {% step %}
 In Chatlyst, the widget status changes from **Draft** to **Active**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

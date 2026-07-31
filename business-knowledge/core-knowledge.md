@@ -35,7 +35,7 @@ icon: file
 
 </details>
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -60,7 +60,7 @@ Before uploading a template, determine whether an existing document is available
 The standard file type is DOCX and can be edited in most word-processing apps.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -78,7 +78,7 @@ The standard file type is DOCX and can be edited in most word-processing apps.
 
 1. Select **Auto-fill or Upload**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure></div>
 
 2. The system opens a window where you can choose either **Auto-fill with Website** or **Upload a File Directly**.
    * If you proceed with **Auto-fill**, follow the steps in the [Auto-fill](auto-fill.md).&#x20;
@@ -86,7 +86,7 @@ The standard file type is DOCX and can be edited in most word-processing apps.
      1. Locate the correct file and select it.
      2. Click **Create Knowledge** to begin processing.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (284).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (292).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
@@ -97,7 +97,7 @@ Supported file types: PDF, DOCX, TXT, MD, or CSV. Maximum file size: 10 MB
 * The uploaded template tab turns light green.
 * The Template tag updates to **Active**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Email Alert — An email notification is sent when the document has finished processing.

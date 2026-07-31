@@ -23,7 +23,7 @@ In the top-right corner, select **Try for Free**.
 If an account already exists, select [**Log in**](/broken/pages/t81gVc2qjAHI7whgMInB) instead.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -51,7 +51,7 @@ On the Sign up (Try for Free) page, choose a sign-up method.
 2. Sign in to the Google account.
 3. Follow the on-screen prompts to complete sign up.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Option C: Sign up with Facebook
 
@@ -84,6 +84,6 @@ After creating the account, Chatlyst prompts you to set up the company.
 
 3. Chatlyst opens the Home page after login.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

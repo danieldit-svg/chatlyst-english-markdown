@@ -12,12 +12,12 @@ Use Team to manage workspace members and invitations. Add or remove people, assi
 
 1. Select **Invite Member.**
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Enter the team member’s details (First Name, Last Name and Email Address) and select the correct role based on the access level you want to grant.
 3. Select **Send Invitation**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Roles in Chatlyst:

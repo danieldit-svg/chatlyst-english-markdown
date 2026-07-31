@@ -20,5 +20,5 @@ The Chat page has two main areas:
 
 On the Chat page, the thread list appears on the left, and the conversation panel appears on the right.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure></div>
 

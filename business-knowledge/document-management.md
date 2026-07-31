@@ -13,7 +13,7 @@ icon: file-circle-info
 
 ### Document Status
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure></div>
 
 * When a document has no pending training items and is considered clean, the document tab is highlighted in light green.
 * When there are pending training tickets, the document tab is highlighted in light yellow.
@@ -22,11 +22,11 @@ icon: file-circle-info
 
 #### Example of Processing / Extracting:&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Example of Upload Error:
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -36,7 +36,7 @@ icon: file-circle-info
 {% step %}
 Select **Auto-fill or Upload** to replace an existing file with an updated version.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -47,7 +47,7 @@ The system opens a window where you can choose either **Enhance with Website** o
   1. Locate the correct file and select it.
   2. Click **Re-create Knowledge** to begin processing.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (323).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (331).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -70,7 +70,7 @@ Train a document to improve how Chatlyst responds based on the content in that f
 For a full step-by-step guide, follow [Train Documents](../train-and-test-bot/train-documents.md).
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -78,7 +78,7 @@ For a full step-by-step guide, follow [Train Documents](../train-and-test-bot/tr
 
 Select the **expand menu (arrow-down icon)** to open Document Details and review information at a glance.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -86,7 +86,7 @@ Select the **expand menu (arrow-down icon)** to open Document Details and review
 
 Select the **History (anti-clockwise** **icon)** to open Version History. Each version is listed for review.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure></div>
 
 In the Version History window, select **Preview (eye icon)** to preview a version. Select **Activate** to replace the current document with the selected version.
 
@@ -94,7 +94,7 @@ In the Version History window, select **Preview (eye icon)** to preview a versio
 Proceed carefully and confirm the correct version before selecting **Activate**.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (330).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (338).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -104,8 +104,8 @@ Select **Preview (eye icon)** on a template to review the document before downlo
 
 * In the preview window, review the full content.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure></div>
 
 * Select **Download** to save a copy of the template to your device in .txt format.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure></div>

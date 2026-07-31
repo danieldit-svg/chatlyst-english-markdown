@@ -5,7 +5,7 @@ icon: whatsapp
 
 # WhatsApp
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (213).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (221).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Important Notes:
 
@@ -21,7 +21,7 @@ If you registered using the WhatsApp Business App, you will retain full access t
 
 <summary><strong>Incoming customer messages</strong></summary>
 
-<div><figure><img src="../../.gitbook/assets/image (339).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (340).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (347).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (348).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
 
 </details>
 
@@ -29,7 +29,7 @@ If you registered using the WhatsApp Business App, you will retain full access t
 
 <summary><strong>Bot-generated replies</strong></summary>
 
-<div><figure><img src="../../.gitbook/assets/image (341).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (343).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (349).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (351).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
 
 </details>
 
@@ -37,7 +37,7 @@ If you registered using the WhatsApp Business App, you will retain full access t
 
 <summary><strong>Live agent replies</strong></summary>
 
-<div><figure><img src="../../.gitbook/assets/image (344).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (345).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (352).png" alt="" width="375"><figcaption><p><strong>Chatlyst</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (353).png" alt="" width="375"><figcaption><p><strong>WhatsApp Business App</strong></p></figcaption></figure></div>
 
 </details>
 
@@ -60,7 +60,7 @@ Chatlyst supports image, video, file, location, and contact sharing.
 
 <summary><strong>Location Sharing</strong></summary>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (495).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (503).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -68,7 +68,7 @@ Chatlyst supports image, video, file, location, and contact sharing.
 
 <summary><strong>Contact Sharing</strong></summary>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (497).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (505).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -84,13 +84,13 @@ When a channel is turned off, it is disabled immediately, and the chatbot stops 
 
 Any widgets connected to the channel automatically change from **Active** to **Draft**. This removes them from the live experience until the channel is enabled again.
 
-<div><figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure></div>
 
 ### **Recent Metrics**
 
 The tab shows the number of conversations and messages from the past 30 days. Use these metrics to confirm the channel is receiving traffic and validate performance before making configuration updates.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (225).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (233).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **Add and Configure Widget**
 
@@ -100,11 +100,11 @@ To add a widget, select **Add Widget (Connet Whatsapp Number)** to launch the wi
    * Entering the widget’s key details.
    * Reviewing the default settings.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (227).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (235).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2. To configure a widget, select the widget from the list, then select **Configure** to open the widget setup and review its configuration. For additional context, follow [Configure a Widget](configure-a-widget.md).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (236).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 **Important Note**: All widgets share the same Business Knowledge base. This means updates to your Business Knowledge apply to every widget, so users do not need to maintain separate knowledge for each one.

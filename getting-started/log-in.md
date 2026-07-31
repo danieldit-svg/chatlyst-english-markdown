@@ -19,7 +19,7 @@ Go to [https://chatlyst.io/](https://chatlyst.io/).
 {% step %}
 In the top-right corner, select **Log in**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -32,7 +32,7 @@ On the Log in page, choose a login method.
 1. Enter the email address and password.
 2. Select **Log in**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Option B: Log in with Google
 
@@ -40,7 +40,7 @@ On the Log in page, choose a login method.
 2. Sign in to the Google account.
 3. Follow the on-screen prompts to complete log in.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Option C: Log in with Facebook
 
@@ -52,7 +52,7 @@ On the Log in page, choose a login method.
 
 After successful log in, Chatlyst opens the Home page.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 

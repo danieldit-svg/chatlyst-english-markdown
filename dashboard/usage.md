@@ -16,7 +16,7 @@ The Usage page shows both credit types in one panel.
 {% hint style="info" %}
 Top up — Select the wallet icon to open the [top-up flow](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/top-up-guideline).
 
-<img src="../.gitbook/assets/image (35).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (43).png" alt="" data-size="original">
 {% endhint %}
 
 ***
@@ -32,10 +32,10 @@ Use the date range selector to specify the time period for the data displayed.
 {% hint style="info" %}
 Date Range — Use the top-right date range selector to view data for a specific period.
 
-<img src="../.gitbook/assets/image (36).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (44).png" alt="" data-size="original">
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -46,7 +46,7 @@ Use the navigation tab in the middle of the page to switch between [Overview](us
 {% hint style="info" %}
 Navigation Tab — Switch between Overview and Trend.
 
-<img src="../.gitbook/assets/image (37).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (45).png" alt="" data-size="original">
 {% endhint %}
 
 <div data-with-frame="true"><img src="../.gitbook/assets/attachment9c40e66d ab74 4fc9 9c91 8a9c2534224aScreenshot_2026 04 27_at_2.20.12_PM (1).png" alt=""></div>
@@ -57,7 +57,7 @@ Navigation Tab — Switch between Overview and Trend.
 
 In Overview, key information updates based on the selected date range.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure></div>
 
 1. Period Summary shows key activity for the selected date range.
 
@@ -132,15 +132,15 @@ Open a New Blank Workbook.
 {% step %}
 Go to **File** and select **Import**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Select CSV file and click **Import**, then locate the CSV and select **Get Data** to proceed.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (383).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (391).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -148,11 +148,11 @@ When the Text Import Wizard appears:
 
 1. Set **File Origin** to: **Unicode (UTF-8)**, then select **Next**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (384).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (392).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2. Tick **Comma** as the Delimiters, select **Finish**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (385).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (393).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -166,9 +166,9 @@ Open a New Blank Workbook.
 {% step %}
 Go to **Data** then **Get Data (Power Query)**, select **From Text (Legacy)**
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -180,10 +180,10 @@ When the Text Import Wizard appears:
 
 1. Set **File Origin** to: **Unicode (UTF-8)**, then select **Next**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (384).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (392).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2. Tick **Comma** as the Delimiters, select **Finish**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (385).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (393).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

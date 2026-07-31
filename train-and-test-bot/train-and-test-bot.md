@@ -15,7 +15,7 @@ Use this section to test, review results, and process training tickets in a clea
 <img src="../.gitbook/assets/Screenshot 2026-04-16 at 4.56.30 PM.png" alt="" data-size="original">
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Navigation tab — Located at the top-left of the page to switch between Testing and History.
@@ -45,7 +45,7 @@ Testing Area provides a space to test the bot and confirm performance before rol
 
 Select **Auto Test** to start an automated test conversation, so Chatlyst can simulate a real user and show how your bot responds without any manual input.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (633).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -55,7 +55,7 @@ Select **Auto Test** to start an automated test conversation, so Chatlyst can si
 
 Select to start a new chat session while training, so testing starts from a clean conversation without earlier messages or context.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (634).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -65,7 +65,7 @@ Select to start a new chat session while training, so testing starts from a clea
 
 Located next to **New Chat**. Select the widget to test in this session.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (635).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -75,9 +75,9 @@ Located next to **New Chat**. Select the widget to test in this session.
 
 Switch between **Widget Preview** and **Streaming Mode** to control how the chat displays during testing.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p><strong>Widget Preview Appearance</strong></p></figcaption></figure> <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p><strong>Streaming Mode Appearance</strong></p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption><p><strong>Widget Preview Appearance</strong></p></figcaption></figure> <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p><strong>Streaming Mode Appearance</strong></p></figcaption></figure></div>
 
 </details>
 
@@ -97,4 +97,4 @@ Switch between **Widget Preview** and **Streaming Mode** to control how the chat
 3. Testing the bot consumes AI response credits.
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p><strong>Widget Preview Appearance</strong></p></figcaption></figure> <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p><strong>Streaming Mode Appearance</strong></p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption><p><strong>Widget Preview Appearance</strong></p></figcaption></figure> <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p><strong>Streaming Mode Appearance</strong></p></figcaption></figure></div>

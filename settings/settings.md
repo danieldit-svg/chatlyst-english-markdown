@@ -12,4 +12,4 @@ Use Settings to manage [Profile](profile.md), [Company](company.md), [Team](team
 * Select the **Settings icon (gear icon)**.
 * Find the icon in the sidebar navigation at the bottom of the right panel, next to user name.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure></div>

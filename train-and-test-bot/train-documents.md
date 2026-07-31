@@ -9,7 +9,7 @@ icon: dumbbell
 
 Training Area is the central place to process training after feedback is submitted during testing.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure></div>
 
 {% stepper %}
 {% step %}
@@ -23,7 +23,7 @@ Review tickets in several ways:
 * Select a ticket from [Ticket List](train-documents.md#ticket-list) for a focused review.
 * Open the [Training Panel](train-documents.md#training-panel) to manage tickets in one place.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure></div>
 
 <details>
 
@@ -35,7 +35,7 @@ Review tickets in several ways:
 * This opens the **Training Panel** and applies the same status filter automatically.
 * Example: Selecting **Pending** updates the Training Panel to show only Pending tickets.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -75,11 +75,11 @@ Review tickets in several ways:
 
 1. Use when a correction is needed but no ticket exists yet.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Enter what needs to be corrected or improved, what the correct behaviour should be, and any supporting context. Select **Submit Training** to proceed.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (87).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (95).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -91,7 +91,7 @@ Review tickets in several ways:
 The [Training Panel](train-documents.md#training-panel) is the **recommended** **place** to manage training, especially when multiple tickets need to be processed.
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/image (88).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 at 3.12.26 PM.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (96).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-05-13 at 3.12.26 PM.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 2.  **Filter tickets by Status and Document Type**
 
@@ -113,7 +113,7 @@ The [Training Panel](train-documents.md#training-panel) is the **recommended** *
        * If only **Company Brand Identity** is selected, the count shows 1.
        * If only **Ticket Handling Sop** is selected, the count shows 5.
 
-<div><figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption><p>All</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption><p>Company Brand Identity</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption><p>Ticket Handling Sop</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption><p>All</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption><p>Company Brand Identity</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption><p>Ticket Handling Sop</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -140,7 +140,7 @@ Follow more on [Training Note Handling](training-note-handling.md).
 
 2. In the training window, review the list and confirm the correct Status (for example, Pending) and Document Types are selected.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (97).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 3. Select the tickets to train:
    * Select **Select All**, or
@@ -149,14 +149,14 @@ Follow more on [Training Note Handling](training-note-handling.md).
 {% hint style="info" %}
 Adjust document type selection if needed.
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (52).png>)
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (90).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (98).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 4. Select **Train X Selected Tickets** (for example, **Train 6 Selected Tickets**) to proceed.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (91).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (99).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -197,13 +197,13 @@ Select **Finish & Exit** to close the training window.
 {% step %}
 Use **Add Manual Feedback** when a correction is needed but no ticket was created during testing.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 After selecting Add Manual Feedback, enter the details, select the related document, then select **Submit Training**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (94).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (102).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

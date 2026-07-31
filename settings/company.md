@@ -19,4 +19,4 @@ You can update this information at any time in **Settings**. You may also enter 
 2. Review your changes to confirm everything is correct.
 3. Select **Save Changes** to apply the updates.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure></div>

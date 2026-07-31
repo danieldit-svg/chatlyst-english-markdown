@@ -14,7 +14,7 @@ icon: compass
 1. Use the **Sidebar Navigation** on the **left** to move between sections.
 2. Use the **Content Page** on the **right** to view and work on the selected section.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (500).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -22,7 +22,7 @@ icon: compass
 
 The sidebar includes quick-access shortcuts that help you jump to key areas and manage common tasks.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (501).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (509).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -125,7 +125,7 @@ User name and email shows the current account details. Use this to confirm the c
 
 When a user signs in to Chatlyst, the **Chatlyst Support** chat bubble appears in the bottom-right corner of the screen.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (581).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (589).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * Users can open the bubble to ask for help with any part of the Chatlyst app.
 * If the chat bubble or conversation window blocks something on the screen, users can **drag it to another position** to improve visibility.

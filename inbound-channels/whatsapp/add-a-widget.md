@@ -11,12 +11,12 @@ In the WhatsApp channel, select **Add Widget (Connect Whatsapp Number)**.
 
 Widget configuration includes three sections: [**Appearance**](add-a-widget.md#appearance), [**Behavior**](add-a-widget.md#behavior), and [**Advanced**](add-a-widget.md#advanced).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Use the navigation tabs to move between **Appearance**, **Behavior**, and **Advanced**, and to quickly review or update specific sections.
 
-![](<../../.gitbook/assets/image (346).png>)
+![](<../../.gitbook/assets/image (354).png>)
 {% endhint %}
 
 {% stepper %}
@@ -28,7 +28,7 @@ Users can update the following fields:
 * **Company Display Name** — the public-facing name shown in the widget header.
 * **Widget Name** — an internal name used to manage multiple widgets.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (602).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -42,15 +42,15 @@ Users can update the following fields:
 * **Handoff Message** and **Handoff Unavailable Message**
   * If no custom message is set:&#x20;
     * When Human Handoff setting is **ON**, **Handoff Message**:\
-      &#xNAN;_“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
+      _“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
     * When Human Handoff setting is **OFF**, **Handoff Unavailable Message**:\
-      &#xNAN;_“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
+      _“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
 * Language Support
   * There is currently no translation support for this feature. If multiple languages are needed, set the message for each language separately.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (280).png" alt=""><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -70,7 +70,7 @@ The default is 30 messages per session, with a minimum of 10.
 The default value is 1,440 minutes (24 hours). This is the recommended settings. For WhatsApp channel, this value cannot exceed 1440 minutes.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (603).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -78,7 +78,7 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 
 After finishing configuration, select **Create**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -113,6 +113,6 @@ Meta may take a few minutes to load this window. Please be patient.
      * If you already have a registered WhatsApp Business account, select [**Connect a WhatsApp Business app**](connect-by-linking-into-an-existing-whatsapp-business-app.md);
      * If you do not have a registered WhatsApp Business account, select [**Create a WhatsApp Business account**](connect-by-creating-a-whatsapp-business-account.md).&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (253).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (261).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

@@ -14,7 +14,7 @@ Thread List functions help users quickly locate, filter, and review conversation
 1. Select the search bar.&#x20;
 2. Enter keywords to locate a specific conversation.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Filters
 
@@ -24,19 +24,19 @@ Use labels and status filters to focus on the conversations that need attention.
 
 [Conversation Labels](labels-and-statuses.md#conversation-labels) group threads into high-level categories. Conversation Labels let users switch between categories to review the right set of conversations.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Status Filters
 
 Status filters narrow conversations by [status](labels-and-statuses.md#conversation-statuses). Status filters narrow the thread list so it only shows the statuses that need attention.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Date Range
 
 Date Range limits the thread list to a specific time period (day, week, or custom dates).
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure></div>
 
 Select a date range using either:
 
@@ -47,7 +47,7 @@ Select a date range using either:
 
 Remove the Date Range filter when it is no longer needed. The filter stays active until it is turned off, which can make it look like conversations are missing later.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -66,5 +66,5 @@ In the Thread List, key details are visible at a glance, including:
 Conversation priority in the Thread List follows this order (highest to lowest): Pending 1st Response > Previously Snoozed > Pending Response > Open > Bot Handling > Snoozed > Closed.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure></div>
 

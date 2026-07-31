@@ -17,5 +17,5 @@ The Customers page has two main areas:
 
 On the Customer page, the customer list appears on the left, and the customer panel appears on the right.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (537).png" alt=""><figcaption></figcaption></figure></div>
 

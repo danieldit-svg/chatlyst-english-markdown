@@ -9,9 +9,9 @@ icon: circle-user
 
 In the Chat section, from the Conversation Panel, select the **person** icon to open the Customer Details view.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (518).png" alt=""><figcaption></figcaption></figure></div>
 
 ### What Customer Details include <a href="#what-customer-details-include" id="what-customer-details-include"></a>
 
@@ -19,17 +19,17 @@ In the Chat section, from the Conversation Panel, select the **person** icon to 
 
 Select the customer name in this view to go to the [Customers](../customers/customers.md) page and review the full customer profile.
 
-<div><figure><img src="../.gitbook/assets/image (512).png" alt="" width="284"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (584).png" alt="" width="563"><figcaption><p>Customers Page</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (520).png" alt="" width="284"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (592).png" alt="" width="563"><figcaption><p>Customers Page</p></figcaption></figure></div>
 
 #### Contact Info
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (524).png" alt="" width="366"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (532).png" alt="" width="366"><figcaption></figcaption></figure></div>
 
 Shows key contact information such as email address and phone number, if available.
 
 #### Platform Context
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (525).png" alt="" width="366"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (533).png" alt="" width="366"><figcaption></figcaption></figure></div>
 
 **Source**: Shows where the customer came from when starting the conversation (for example, website widget and other entry points). This helps identify which entry point or campaign generated the contact.
 
@@ -47,12 +47,12 @@ Shows key contact information such as email address and phone number, if availab
 
 #### Custom Attributes
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (582).png" alt="" width="368"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (590).png" alt="" width="368"><figcaption></figcaption></figure></div>
 
 Shows tenant-specific custom fields configured for this customer, such as segment, plan type, region, or any other defined attribute. These attributes are predefined in [Settings](../settings/customer-attributes.md) and can be used for filtering or segmentation. For more information, see [Edit Customer Profile](../customers/customer-panel.md#edit-customer-profile).
 
 #### Notes
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (528).png" alt="" width="366"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (536).png" alt="" width="366"><figcaption></figcaption></figure></div>
 
 To add an internal note, enter a free-text note for the customer profile, then select **Add Note** to save.
