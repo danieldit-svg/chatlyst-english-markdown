@@ -1,13 +1,13 @@
 ---
 description: >-
   This guide provides instructions on how to create, manage, and send WhatsApp
-  Marketing Templates using Chatlyst.
+  Template Messages using Chatlyst.
 icon: message-lines
 ---
 
-# WhatsApp Marketing Template
+# WhatsApp Template Messages
 
-A template is a pre-approved message format used to communicate with customers. WhatsApp enforces a 24-hour messaging rule: standard messages cannot be sent to a customer if they have not replied within the last 24 hours. However, approved templates bypass this rule and can be sent at any time.
+A template message is a pre-approved message format used to communicate with customers. WhatsApp enforces a 24-hour messaging rule: standard messages cannot be sent to a customer if they have not replied within the last 24 hours. However, approved templates bypass this rule and can be sent at any time.
 
 ### Manage Your Templates
 
@@ -29,7 +29,7 @@ From [Inbound Channel](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/inbound-ch
 {% step %}
 Scroll to the bottom of the page to locate the template dashboard.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (648).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (691).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -39,9 +39,9 @@ Scroll to the bottom of the page to locate the template dashboard.
 
 <summary><strong>Create Template</strong></summary>
 
-Select this option to build a new marketing message layout from the beginning.
+Select this option to build a new template message layout from the beginning.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (649).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (692).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -51,7 +51,7 @@ Select this option to build a new marketing message layout from the beginning.
 
 Select this option to refresh the Chatlyst system.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (650).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (693).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -65,7 +65,7 @@ Select the **bin icon** next to a specific template to remove it from the system
 Deleting a template is a permanent action and cannot be reversed. Ensure the template is no longer needed before proceeding.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (651).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (694).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -75,11 +75,11 @@ Deleting a template is a permanent action and cannot be reversed. Ensure the tem
 
 * Select the **down arrow icon** next to a specific template. This expands the view to display the existing template details.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (652).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (695).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * From here, adjust the Parameter Mapping if necessary, and select **Save Mapping** to apply any changes.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (653).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (700).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -89,7 +89,7 @@ Deleting a template is a permanent action and cannot be reversed. Ensure the tem
 
 The dashboard displays all templates in a list format. If the list spans multiple pages, use the page indicators located at the bottom of the screen (for example, 1 / 2) to move between pages.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (654).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (697).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -106,7 +106,7 @@ There are two types of parameters used in Chatlyst:
 
 ### Mapping Parameters to Customer Data
 
-To ensure the correct information is inserted into the message, each parameter must be mapped (connected) to a specific data field in the customer's profile. When [creating a template](whatsapp-marketing-template.md#create-a-template), use the dropdown menu next to each parameter to select the correct data source.
+To ensure the correct information is inserted into the message, each parameter must be mapped (connected) to a specific data field in the customer's profile. When [creating a template](whatsapp-template-messages.md#create-a-template), use the dropdown menu next to each parameter to select the correct data source.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (690).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -196,7 +196,7 @@ Select **Create & Submit**.
 {% step %}
 The newly created template will appear on the dashboard with a **Pending** status while it awaits Meta's review. Once reviewed and accepted, the status will update to **Approved**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (656).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (699).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 
@@ -266,7 +266,7 @@ For detailed pricing, please visit [Pricing on the WhatsApp Business Platform](h
 
 ### Meta Payment Settings Configuration
 
-To use WhatsApp Marketing Templates seamlessly, the connected WhatsApp Business Account must have a valid credit card on file for template billing.
+To use WhatsApp Template Messages seamlessly, the connected WhatsApp Business Account must have a valid credit card on file for template billing.
 
 {% stepper %}
 {% step %}

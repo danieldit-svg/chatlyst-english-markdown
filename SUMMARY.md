@@ -60,7 +60,7 @@
   * [Connect by Creating a Whatsapp Business Account](inbound-channels/whatsapp/connect-by-creating-a-whatsapp-business-account.md)
   * [Disconnect WhatsApp](inbound-channels/whatsapp/disconnect-whatsapp.md)
   * [Configure a Widget](inbound-channels/whatsapp/configure-a-widget.md)
-  * [WhatsApp Marketing Template](inbound-channels/whatsapp/whatsapp-marketing-template.md)
+  * [WhatsApp Template Messages](inbound-channels/whatsapp/whatsapp-template-messages.md)
 * [LINE](inbound-channels/line/README.md)
   * [Add a Widget](inbound-channels/line/add-a-widget.md)
   * [Set Up LINE Messaging API Credentials](inbound-channels/line/set-up-line-messaging-api-credentials.md)
