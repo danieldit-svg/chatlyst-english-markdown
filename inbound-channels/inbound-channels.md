@@ -18,8 +18,9 @@ Supported channels include:
 * [Website Embed](website-embed/)
 * [WhatsApp](whatsapp/)
 * [LINE](line/)
+* Facebook Messenger (Coming Soon)
+* Instagram (Coming Soon)
 * Shopify (Coming Soon)
 * WordPress (Coming Soon)
-* Facebook (Coming Soon)
-* Instagram (Coming Soon)
 * Telegram (Coming Soon)
+
