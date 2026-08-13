@@ -66,11 +66,6 @@
   * [Set Up LINE Messaging API Credentials](inbound-channels/line/set-up-line-messaging-api-credentials.md)
   * [Disconnect LINE](inbound-channels/line/disconnect-line.md)
   * [Configure a Widget](inbound-channels/line/configure-a-widget.md)
-* [Instagram](inbound-channels/instagram/README.md)
-  * [Add a Widget](inbound-channels/instagram/add-a-widget.md)
-  * [Connect Instagram](inbound-channels/instagram/connect-instagram.md)
-  * [Disconnect Instagram](inbound-channels/instagram/disconnect-instagram.md)
-  * [Configure a Widget](inbound-channels/instagram/configure-a-widget.md)
 
 ## SETTINGS
 
