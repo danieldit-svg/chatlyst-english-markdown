@@ -252,7 +252,7 @@ Practice:
 1. Click through several threads and confirm the Conversation Panel updates immediately.
 2. Use filters to work efficiently:
    * [**Search**](chat/thread-list.md#find-a-conversation) – find keywords/topics across many threads.
-   * [**Conversation Labels**](chat/labels-and-statuses.md#conversation-labels) – narrow by category.
+   * [**Conversation Labels**](chat/conversation-routing-and-statuses.md#conversation-labels) – narrow by category.
    * [**Status Filters**](chat/thread-list.md#status-filters) – separate items needing action now from resolved items.
    * [**Date Range**](chat/thread-list.md#date-range) – review a specific time window.
 

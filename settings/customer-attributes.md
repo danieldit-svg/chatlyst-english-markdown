@@ -1,22 +1,20 @@
 ---
-description: >-
-  Customer attributes are predefined keys used to store tenant-specific customer
-  data. Customers can only be assigned values for attributes that have already
-  been created.
 icon: creative-commons-by
 ---
 
 # Customer Attributes
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure></div>
+Customer attributes are predefined keys used to store tenant-specific customer data. Customers can only be assigned values for attributes that have already been created.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (780).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Create Custom Attributes
 
 {% stepper %}
 {% step %}
-Select **+ Add Attribute**.
+Select **Add Attribute**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (781).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -82,7 +80,7 @@ Select **Create Attribute** to save it, or **Cancel** to discard it.
 {% step %}
 Select the attribute from the list, then select the **pencil icon** next to the attribute you want to edit.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (782).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -104,7 +102,7 @@ Select **Save** **Changes** to apply the update, or **Cancel** to discard it.
 {% step %}
 Select the attribute from the list, then select the **bin icon** next to the attribute you want to remove.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (783).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -175,4 +173,3 @@ After the next scheduled auto‑update runs, Chatlyst scans the conversation, de
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
-

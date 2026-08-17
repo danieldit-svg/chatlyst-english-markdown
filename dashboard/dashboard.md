@@ -15,161 +15,242 @@ The Dashboard provides a high-level view of:
 * [Feedback & Responses](dashboard.md#feedback-and-response)
 * [Performance Metrics](dashboard.md#performance-metrics)
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment0bf5c1f3 40c5 4713 ba55 d86783ea6f14image (1).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (789).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Navigation tab — Located in the top-left corner of the page to switch between [Dashboard](dashboard.md) and [Usage](usage.md).
+Navigation tab — Located in the top-left corner of the page to switch between [Dashboard](dashboard.md) ,[Usage](usage.md) and [Tag Summary](tags-summary.md).
 
-![](../.gitbook/assets/dash.png)
+![](<../.gitbook/assets/image (790).png>)
 {% endhint %}
 
 ***
 
+### Active AI Features
+
+A visual tag located next to the company name displays which AI automation tools are currently active on the account.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (791).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
 ### Live Tickets
 
-Use Live Tickets to review what needs attention right now.
+The Live Tickets dashboard allows users to monitor and review customer conversations (tickets) that require immediate attention. To help organize the daily workflow, the dashboard is divided into three distinct tabs based on the current status of the conversation.
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment5652df73 535f 4889 9926 e5684569ef52image (1).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (792).png" alt=""><figcaption></figcaption></figure></div>
 
 #### **Active (Bot Handling)**
 
-This tab shows tickets currently handled by the bot.
+This tab displays customer conversations that are currently being managed by the automated bot.
 
-1. Select **Active (Bot Handling)** to open [Chat](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/chat).
-2. Review the conversations in the **Bot category**.
+**How to use this tab:**&#x20;
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment91ee0d0a eafe 4fff b626 41cdced498333d02cd1c bb81 48f6 bff6 d317eebea6ef (1).png" alt="" width="344"></div>
+1. Select the **Active (Bot Handling)** tab to open [Chat](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/chat).&#x20;
+2. Review the ongoing interactions listed in the **Bot category** to monitor how the bot is assisting customers.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (921).png" alt="" width="335"><figcaption></figcaption></figure></div>
 
 #### **Pending First Response**
 
-This tab shows tickets waiting for the first human response.
+This tab displays conversations that have been transferred from the automated bot and are currently waiting for a live human agent to send an initial reply.
 
-1. Select **Pending First Response** to open [Chat](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/chat).
-2. Review the conversations in the **Human** **category**.
+**How to use this tab:**&#x20;
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachmentdfa432a8 8cf8 4611 88f2 037d915e7cce21b3ebaa 98c9 44a2 9f73 d1422185becd (1).png" alt="" width="344"></div>
+1. Select the **Pending First Response** tab to open the [Chat](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/chat).&#x20;
+2. Review the customer inquiries listed in the **Unassigned category** to claim a conversation and respond to the waiting customer.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (920).png" alt="" width="338"><figcaption></figcaption></figure></div>
 
 #### **Active Complaints**
 
-This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select **Contact Effex** for details.
+This tab displays conversations that the system has flagged with a complaint tag.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachmentebff0ba4 31d9 44f0 b928 200f8c6b97081c62b1f6 acfc 46b1 b02a 8d93d78f22b1 (1).png" alt="" width="342"></div>
+{% hint style="info" %}
+**Requirement:** To unlock and view this metric, the [Chatlyst Radar](../settings/conversation-tags.md) feature must be enabled in the system settings.
+{% endhint %}
+
+**How to use this tab:**&#x20;
+
+1. Select the **Active Complaints** tab to open the [Tags Summary](tags-summary.md).&#x20;
+2. Review the flagged conversations within the tagged conversations list. Refer to the [Tags Summary](tags-summary.md) guide for more details.
+
+<div><figure><img src="../.gitbook/assets/image (795).png" alt=""><figcaption><p>Chatlyst Radar Inactive</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (794).png" alt="" width="488"><figcaption><p>Chatlyst Radar Active</p></figcaption></figure></div>
 
 ***
 
 ### Feedback & Response
 
-Use Feedback & Response to track feedback status and knowledge document health.
+The Feedback & Response dashboard allows users to track the progress of system feedback and monitor the health of knowledge documents.
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment4bee7a51 8bf7 476c 94b9 329202dd6a26image (1).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (796).png" alt=""><figcaption></figcaption></figure></div>
 
 #### **Feedback Status**
 
-This tab summarises feedback status.
+This section provides a summary of the feedback submitted regarding the bot's performance. Use this area to review feedbacks and improve the bot's accuracy.
 
-1. Select **Feedback Status** to open [Train & Test bot](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/train-and-test-bot).
+**How to Manage Feedback:**
+
+1. Select the **Feedback Status** tab to open the [Train & Test bot](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/train-and-test-bot).
 2. Review submitted feedback and complete training as needed.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment38f9fe7d 533d 4422 93e2 3ccc6acac5af6052ca3f 2af1 4830 b448 70c3775a3e1e (1).png" alt="" width="345"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (922).png" alt="" width="333"><figcaption></figcaption></figure></div>
 
 #### **Knowledge Documents**
 
-This tab shows the number of uploaded knowledge documents and whether each is Clean or Pending.
+A knowledge document is a file containing business information that the bot uses to understand and answer customer questions. This tab displays the total number of uploaded documents and indicates their current status as either Clean or Pending.
 
-1. Select **Knowledge Documents** to open [Business Knowledge](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/business-knowledge).
+**How to Manage Documents:**
+
+1. Select the **Knowledge Documents** tab to open the [Business Knowledge](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/business-knowledge).
 2. Review templates and manage feedback.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachmenta63e76f8 c3d6 4a0c 8ee0 fc1ff76619ad5bca34d7 ff86 4c0b a0ce c28ad56971d4 (1).png" alt="" width="345"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (923).png" alt="" width="336"><figcaption></figcaption></figure></div>
 
 #### **Top Issues**
 
-This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select **Contact Effex** for details.
+This section highlights the three most frequently used tags and number of conversations have been tagged.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment9bb87383 77f9 44d4 a9ba e3b5c716e4c30130c9a0 010e 4fa5 bacc eae5ed267a78 (1).png" alt="" width="343"></div>
+{% hint style="info" %}
+**Requirement:** To unlock and view this metric, the [Chatlyst Radar](../settings/conversation-tags.md) feature must be enabled in the system settings.
+{% endhint %}
+
+**How to Review Top Issues:**
+
+1. Select the **Top Issues** tab to open the [Tags Summary](tags-summary.md).&#x20;
+2. Review the specific conversations linked to these tags to understand the root causes of the customer concerns. Refer to the [Tags Summary](tags-summary.md) guide for more details.
+
+<div><figure><img src="../.gitbook/assets/image (797).png" alt=""><figcaption><p>Chatlyst Radar Inactive</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (798).png" alt="" width="480"><figcaption><p>Chatlyst Radar Active</p></figcaption></figure></div>
 
 ***
 
 ### Performance Metrics
 
-Use Performance Metrics to review activity and trends.
-
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment93722a51 d626 458e 8fc0 095771d45cc0image (1).png" alt=""></div>
+The Performance Metrics dashboard is a centralized workspace used to review system activity, track customer trends, and monitor the overall efficiency of the support team.
 
 {% hint style="info" %}
-Date Range — Select a date range in the top-right corner to control the time period shown in charts and totals.
-
-![](../.gitbook/assets/per.png)
+All data and metrics displayed in this section update automatically based on the specific date range selected.
 {% endhint %}
+
+#### Adjusting the Date Range
+
+Use the Date Range tool to control the specific time period shown across all charts and totals on the dashboard.
+
+{% stepper %}
+{% step %}
+Locate the **Date Range** selector in the top-right corner of the screen.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (823).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+Select the desired dates. The dashboard will immediately update to display the relevant data.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (824).png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
+{% endstepper %}
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (799).png" alt=""><figcaption></figcaption></figure></div>
 
 #### **Conversations**
 
-This tab shows the total number of conversations in the selected date range.
+Displays the total number of customer interactions that occurred.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachmenta3cecee0 907e 4c98 a029 b5b4f73acb1a0ef1f071 1622 42c9 875a c291659e7c20 (1).png" alt="" width="266"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (924).png" alt="" width="256"><figcaption></figcaption></figure></div>
 
 #### **AI Responses**
 
-This tab shows the number of bot messages in the selected date range.
+Displays the total number of messages sent by the automated bot.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment959fbb12 5122 483b 9703 105c02cfb092e5f787e8 febd 49d1 bd6b db3e238bf07d (1).png" alt="" width="263"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (925).png" alt="" width="253"><figcaption></figcaption></figure></div>
 
 #### **KC Bot Usage**
 
-This tab shows how many times Knowledge Consolidation was used in the selected date range.
+Displays the total number of times Knowledge Consolidation was used.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment78bea4c4 fe1f 40f8 b815 7028732c10df7829dc6b 2cf0 4860 9487 42b0884f2d6c (1).png" alt="" width="262"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (926).png" alt="" width="252"><figcaption></figcaption></figure></div>
 
 #### **Feedback Resolved**
 
-This tab shows how many feedback items were handled in the selected date range. This tab links to [Train & Test bot](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/train-and-test-bot).
+Displays the total number of bot training feedback items that were reviewed and completed. Selecting this tab automatically redirects to the [Train & Test bot](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/train-and-test-bot).
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment534806f8 6596 4a3c b216 c644d3a8551b59ed113d 22e1 4277 a21b c8b6becfbf3d (1).png" alt="" width="261"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (927).png" alt="" width="255"><figcaption></figcaption></figure></div>
 
 #### **Resolved Conversations**
 
-This tab shows how many conversations were closed in the selected date range.
+Displays the total number of customer interactions that were successfully closed or completed.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachmentc67166b7 859f 49b1 b5db f744fa33b0089da7b995 68a3 4093 8fc8 20e018bb2d7d (1).png" alt="" width="264"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (928).png" alt="" width="254"><figcaption></figcaption></figure></div>
 
 #### **Bot vs Human**
 
-This tab shows the ratio of conversations handled by the bot versus a human.
+Displays a ratio comparing the number of conversations managed entirely by the automated bot against those handled by human support agents.
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment85caf36f 6474 4bdf 8bbf 2cf7313c16620bb2e8fc 9e24 4c7b b26c 06dc87b3fdae (1).png" alt="" width="261"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (929).png" alt="" width="257"><figcaption></figcaption></figure></div>
 
-#### **CSAT**&#x20;
+### **Quality and Tagging Metrics**
 
-This feature is planned for a future release.
+This following mertics track customer satisfaction and how well conversations are being categorized:
 
-#### **Performance Chart**
+#### **CSAT**
+
+Displays a percentage representing overall customer satisfaction. This score is calculated by taking the number of conversations without any complaint tags and dividing it by the total number of conversations. Selecting this tab automatically redirects to the [Tags Summary](tags-summary.md) for a detailed review of customer issues.
+
+{% hint style="info" %}
+**Requirement:** To unlock and view this metric, the [Chatlyst Radar](../settings/conversation-tags.md) feature must be enabled in the system settings.
+{% endhint %}
+
+<div><figure><img src="../.gitbook/assets/image (805).png" alt="" width="345"><figcaption><p>Chatlyst Radar Inactive</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (804).png" alt="" width="345"><figcaption><p>Chatlyst Radar Active</p></figcaption></figure></div>
+
+#### Tag Coverage
+
+Displays the total number of conversations that have been assigned at least one tag. Select this metric to redirect to the [Tags Summary](tags-summary.md) for further review.
+
+{% hint style="info" %}
+**Requirement:** To unlock and view this metric, the [Chatlyst Radar](../settings/conversation-tags.md) feature must be enabled in the system settings.
+{% endhint %}
+
+<div><figure><img src="../.gitbook/assets/image (806).png" alt="" width="344"><figcaption><p>Chatlyst Radar Inactive</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (807).png" alt="" width="342"><figcaption><p>Chatlyst Radar Active</p></figcaption></figure></div>
+
+### **Performance Chart**
+
+The Performance Charts section provides visual representations of system data. These graphs help identify trends, monitor workload, and track customer issues over time.
 
 #### **Activity Over Time**
 
-This chart shows resolved conversations and bot messages over time.
+This chart displays the volume of completed customer interactions (resolved conversations) alongside the number of automated system replies (bot messages) during a selected time period.&#x20;
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment18ff18d8 80c7 45bc 9d11 fae77b4d2b7438525b50 7ac4 44ca b711 a76aa687c7c2 (1).png" alt="" width="375"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (814).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Hover over the chart to review the numbers.
+To view exact data values, hover the cursor over individual sections of the chart.
 
 <img src="../.gitbook/assets/Screenshot 2026-04-27 at 11.40.50 AM.png" alt="" data-size="original">
 {% endhint %}
 
 #### **Tickets by Channel**
 
-This chart shows ticket distribution by channel.
+This chart breaks down the distribution of tickets across all active channels.&#x20;
 
-<div align="center" data-with-frame="true"><img src="../.gitbook/assets/attachment233988d3 aa11 4301 a1f2 813d79c90af86c7a9265 f5fb 4f5e a0a1 cf4e85b08bc3 (1).png" alt="" width="375"></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (808).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Hover over segments to review the numbers.
+To view exact data values, hover the cursor over individual sections of the chart.
 
-<img src="../.gitbook/assets/Screenshot 2026-04-27 at 11.44.37 AM.png" alt="" data-size="original">
+![](<../.gitbook/assets/image (810).png>)
 {% endhint %}
 
-#### **Sentiment Analysis**
+#### **Complaint Tracer**
 
-This feature requires additional setup before it can be enabled and shown on the Dashboard. To learn what is required, select **Contact Effex** for details.
+This line chart tracks the frequency of flagged customer issues over a continuous 15-week period. The chart plots one consolidated data point for each week.&#x20;
 
-<div data-with-frame="true"><img src="../.gitbook/assets/attachment8392702a 67a7 4964 a436 d62c9d436b4700f3ef47 ff0b 47d2 804a b4007c86b009 (1).png" alt="" width="563"></div>
+{% hint style="info" %}
+**Requirement:** To unlock and view this metric, the [Chatlyst Radar](../settings/conversation-tags.md) feature must be enabled in the system settings.
+{% endhint %}
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption><p>Chatlyst Radar Inactive</p></figcaption></figure></div>
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (813).png" alt=""><figcaption><p>Chatlyst Radar Active</p></figcaption></figure></div>
+
+{% hint style="info" %}
+To view exact data values, hover the cursor over individual sections of the chart.
+
+![](<../.gitbook/assets/image (811).png>)
+{% endhint %}

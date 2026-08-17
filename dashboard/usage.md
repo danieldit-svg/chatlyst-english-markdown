@@ -23,17 +23,23 @@ Top up — Select the wallet icon to open the [top-up flow](https://app.gitbook.
 
 ### Review Overview and Trends
 
+{% hint style="info" %}
+All data and metrics displayed in this section update automatically based on the specific date range selected.
+{% endhint %}
+
 {% stepper %}
 {% step %}
 #### Choose a Date Range
 
-Use the date range selector to specify the time period for the data displayed.
+Use the Date Range tool to control the specific time period shown across all charts and totals on the dashboard.
 
-{% hint style="info" %}
-Date Range — Use the top-right date range selector to view data for a specific period.
+1. Locate the Date Range selector in the top-right corner of the screen.
 
-<img src="../.gitbook/assets/image (44).png" alt="" data-size="original">
-{% endhint %}
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (825).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+2. Select the desired dates. The dashboard will immediately update to display the relevant data.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (824).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}

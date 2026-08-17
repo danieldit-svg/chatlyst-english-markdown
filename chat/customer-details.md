@@ -1,58 +1,101 @@
 ---
-description: >-
-  Customer Details provide an overall view of the customer, including Contact
-  Info, Platform Context, Custom Attributes and Notes.
 icon: circle-user
 ---
 
 # Customer Details
 
-In the Chat section, from the Conversation Panel, select the **person** icon to open the Customer Details view.
+### Viewing Customer Details
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure></div>
+To access information about a customer, select the **person** icon located in the Conversation Panel to open the Customer Details view.&#x20;
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (518).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (885).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (886).png" alt=""><figcaption></figcaption></figure></div>
 
-### What Customer Details include <a href="#what-customer-details-include" id="what-customer-details-include"></a>
+***
+
+### Profile Information
+
+This section displays basic identifying details about the customer and the team member currently assisting them.
 
 #### Customer Name and ID
 
-Select the customer name in this view to go to the [Customers](../customers/customers.md) page and review the full customer profile.
+Displays the customer's identity. Select the customer's name to navigate to the main [Customers](https://app.gitbook.com/s/BW7n4ClAhZvbgvusylCd/customers) page and review their complete profile.
 
-<div><figure><img src="../.gitbook/assets/image (520).png" alt="" width="284"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (592).png" alt="" width="563"><figcaption><p>Customers Page</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (889).png" alt="" width="402"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (888).png" alt=""><figcaption></figcaption></figure></div>
 
-#### Contact Info
+#### Current Assignee
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (532).png" alt="" width="366"><figcaption></figcaption></figure></div>
+Displays the specific team member currently assigned to manage the conversation.
 
-Shows key contact information such as email address and phone number, if available.
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (891).png" alt="" width="402"><figcaption></figcaption></figure></div>
+
+#### Conversation Context and Customer Information
+
+The [Conversation Context](customer-details.md#conversation-context) and [Customer Information](customer-details.md#customer-information) sections display detailed information about the active chat session and the customer's profile.&#x20;
+
+To view or edit these details, simply select any specific item within either section to expand it, review the full information, and apply any necessary changes. Please refer to the following guide for more detailed instructions.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (894).png" alt="" width="384"><figcaption></figcaption></figure></div>
+
+***
+
+### Conversation Context
+
+This section provides technical data and routing information regarding the active chat session.
+
+#### Conversations Tags
+
+Displays any tags currently applied to categorize the active chat. Please refer [Conversations Tags](../settings/conversation-tags.md) guide for more details.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (895).png" alt="" width="351"><figcaption></figcaption></figure></div>
+
+* To add a tag, select **Add Tag** and choose the desired tag from the list to apply it to the conversation.&#x20;
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (896).png" alt="" width="348"><figcaption></figcaption></figure></div>
+
+* To remove a tag, locate the active tag you want to remove, select the **cross** icon next to the tag name to delete it from the chat.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (897).png" alt="" width="351"><figcaption></figcaption></figure></div>
 
 #### Platform Context
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (533).png" alt="" width="366"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (892).png" alt="" width="354"><figcaption></figcaption></figure></div>
 
-**Source**: Shows where the customer came from when starting the conversation (for example, website widget and other entry points). This helps identify which entry point or campaign generated the contact.
+**Source**: Indicates the exact entry point or campaign the customer clicked to start the conversation.
 
-**Channel**: Shows the messaging channel used by the customer, such as Web, LINE, or WhatsApp. This helps the agent understand where replies will be sent and what features are available on that channel.
+**Channel**: Displays the messaging platform used, such as a Website widget, LINE, or WhatsApp. This indicates where replies will appear and what channel features are supported.
 
-**Language**: Shows the language preference detected or set for the customer (for example, EN for English).&#x20;
+**Language**: Displays the detected or preferred language of the customer (for example, EN for English).
 
-**User Agent**: Shows the customer’s browser or app environment which can help troubleshoot technical issues.
+**User Agent**: Identifies the customer’s internet browser or application environment. This data is highly useful for troubleshooting technical issues.
 
-**Referrer**: Shows which chat widget the customer used to start the conversation (for example, the widget or other entry points).
+**Referrer**: Indicates the specific chat widget or starting point the customer used to initiate contact.
 
-**Session ID**: Identifies the current browsing or chat session and can be used for tracking or debugging. Select the **copy** icon next to the value to copy the Session ID.
+**Session ID**: A unique system code identifying the current interaction. Select the **copy** icon next to the value to duplicate this ID for tracking or debugging purposes.
 
-**First Active**: Shows when the customer first became active, helping the team understand how long the customer has been engaged.
+**First Active**: Displays the exact timestamp when the customer initially engaged, helping the team understand the total length of the interaction.
+
+***
+
+### Customer Information
+
+This section contains contact data, specific account variables, and internal team memos.
+
+#### Contact Info
+
+Displays key contact methods, such as an email address and phone number, if provided by the customer.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (532).png" alt="" width="366"><figcaption></figcaption></figure></div>
 
 #### Custom Attributes
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (590).png" alt="" width="368"><figcaption></figcaption></figure></div>
+Displays specific, customized fields configured for this customer, such as account tier, region, or user segment. These attributes are predefined in the system Settings. Refer to the [Edit Customer Profile](../customers/customer-panel.md#edit-customer-profile) guide for more details.
 
-Shows tenant-specific custom fields configured for this customer, such as segment, plan type, region, or any other defined attribute. These attributes are predefined in [Settings](../settings/customer-attributes.md) and can be used for filtering or segmentation. For more information, see [Edit Customer Profile](../customers/customer-panel.md#edit-customer-profile).
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (590).png" alt="" width="368"><figcaption></figcaption></figure></div>
 
 #### Notes
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (536).png" alt="" width="366"><figcaption></figcaption></figure></div>
+A designated area to leave private, internal memos about the customer profile.&#x20;
 
-To add an internal note, enter a free-text note for the customer profile, then select **Add Note** to save.
+* Type a message into the text field and select **Add Note** to save it for other team members to reference.
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (536).png" alt="" width="366"><figcaption></figcaption></figure></div>

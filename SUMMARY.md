@@ -13,13 +13,14 @@
 
 * [Dashboard](dashboard/dashboard.md)
 * [Usage](dashboard/usage.md)
+* [Tags Summary](dashboard/tags-summary.md)
 
 ## CHAT
 
 * [Chat](chat/chat.md)
 * [Thread List](chat/thread-list.md)
 * [Conversation Panel](chat/conversation-panel.md)
-* [Labels and Statuses](chat/labels-and-statuses.md)
+* [Conversation Routing and Statuses](chat/conversation-routing-and-statuses.md)
 * [Additional Options by Status](chat/additional-options-by-status.md)
 * [Customer Details](chat/customer-details.md)
 
@@ -74,6 +75,9 @@
 * [Company](settings/company.md)
 * [Team](settings/team.md)
 * [Customer Attributes](settings/customer-attributes.md)
+* [Conversation Tags](settings/conversation-tags.md)
+* [Canned Messages](settings/canned-messages.md)
+* [Assignment Rules](settings/assignment-rules.md)
 * [Billing](settings/billing.md)
 
 ## TOP UP GUIDELINE

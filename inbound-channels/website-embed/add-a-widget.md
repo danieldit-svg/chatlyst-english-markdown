@@ -13,7 +13,7 @@ On the widget setup page, enter the widget details and configure settings using 
 
 Widget configuration includes three sections: [Appearance](add-a-widget.md#appearance), [Behavior](add-a-widget.md#behavior), and [Advanced](add-a-widget.md#advanced).
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment209d98c8 05db 4e3a aaea 23952f18c950b6ef3ed1 776d 49d5 8620 7cfc33bfb7fb (2).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (755).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Navigation tab — use this tab to move between [Appearance](add-a-widget.md#appearance), [Behavior](add-a-widget.md#behavior), and [Advanced](add-a-widget.md#advanced), and quickly review or update specific sections.
@@ -25,9 +25,9 @@ Navigation tab — use this tab to move between [Appearance](add-a-widget.md#app
 {% step %}
 ### Appearance
 
-**Control the visual design of the widget, including name, colors, and placement on the page.**
+**Control the visual design of the widget, including name, colors, placement on the page and widget icon setting.**
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment56b1557f d988 44cf 8f23 476b6cd05879image (2).png" alt=""></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (756).png" alt=""><figcaption></figcaption></figure></div>
 
 Users can update the following fields:
 
@@ -36,19 +36,19 @@ Users can update the following fields:
    * **Widget Name** — an internal name used to manage multiple widgets.
    * **Welcome Messag**e — the greeting shown when the widget opens.
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachmentb45dc036 7124 4ca1 9de1 0d0879613913Untitled_design_(12) (2).png" alt="" width="563"></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (758).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 2. **Widget Color**
 
-<div data-with-frame="true"><img src="../../.gitbook/assets/attachment546d14ac 69b9 42db 943c 22ce1e22650cUntitled_design_(14) (2).png" alt="" width="563"></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (759).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * **Primary Color** — sets the primary color used across the widget and defines the overall brand look. This color applies to the header and the widget launcher and does not change when switching themes. A color can be selected in the color picker or entered as a HEX code.
 
-![Header](<../../.gitbook/assets/attachment41626212 5535 4902 b9ec bab2ec318c79image (2).png>) ![Launcher](<../../.gitbook/assets/attachment83ee95df e08c 4ee9 8a4b efb394a77f7cimage (2).png>)
+<div><figure><img src="../../.gitbook/assets/image (760).png" alt="" width="563"><figcaption><p>Header</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (763).png" alt="" width="563"><figcaption><p>Launcher</p></figcaption></figure></div>
 
 * **Secondary Color** — sets the secondary color used for supporting UI elements and creates contrast with the primary color. This color applies only to the footer.
 
-<div align="center" data-with-frame="true"><img src="../../.gitbook/assets/attachment3e4daf40 f1d1 4802 b3ff 41bea7736444image (2).png" alt="Footer" width="375"></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (762).png" alt="" width="375"><figcaption><p>Footer</p></figcaption></figure></div>
 
 2.  **Widget Theme**
 
@@ -57,13 +57,28 @@ Users can update the following fields:
       * **Dark** — applies dark styling to the widget body, input field, and footer.
       * **Auto** — automatically sets the widget theme based on system settings.
 
-    <div><figure><img src="../../.gitbook/assets/light.png" alt=""><figcaption><p>Light Theme</p></figcaption></figure> <figure><img src="../../.gitbook/assets/dark.png" alt=""><figcaption><p>Dark Theme</p></figcaption></figure></div>
+    <div><figure><img src="../../.gitbook/assets/image (764).png" alt=""><figcaption><p>Light Theme</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (765).png" alt=""><figcaption><p>Dark Theme</p></figcaption></figure></div>
 3. **Position**
    * To set where the widget appears on the website, choose the position where it will be displayed for visitors (**Bottom Right**, **Bottom Left**, **Center**, or **Embedded**). This setting determines where the widget  shows up on the screen, or whether it appears inline where the widget is embedded on the page.
 
-![Center](<../../.gitbook/assets/attachment32b79d7e 501a 4ccc aa22 acba50a7e1f5Screenshot_2026 04 22_at_11.47.44_PM (2).png>) ![Bottom Right](<../../.gitbook/assets/attachment539e310f 1582 4337 b010 1262818e7b84Screenshot_2026 04 22_at_11.47.26_PM (2).png>)
+<div><figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption><p>Center</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (767).png" alt=""><figcaption><p>Bottom Left</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (768).png" alt=""><figcaption><p>Bottom Right</p></figcaption></figure></div>
 
-<div align="center"><img src="../../.gitbook/assets/attachmentfe579746 7257 47bc 9eb7 d6d2b58ad8b0Screenshot_2026 04 22_at_11.47.35_PM (2).png" alt="Bottom Left" width="375"></div>
+4. **Widget Icon Type**&#x20;
+
+* To determine the visual image displayed on the chat widget to website visitors. To set the appearance of the widget, choose the option that best matches the desired look and feel for the website.
+  * **Fallback to Initial of Display Name** — This option applies the configured Company Display Name.&#x20;
+  * **Use Company Icon** — This option automatically applies the company logo previously uploaded in the Settings. For instructions on how to upload the main company icon, please refer to the [Company](../../settings/company.md) guide.
+  *   **Upload Custom Icon** — This option applies a unique image specifically for this individual widget, overriding the default company icon.
+
+      * How to upload: Select this option to reveal the upload menu. Choose an image file from the local computer to upload it.
+
+      <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (769).png" alt="" width="358"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+The company icon supports PNG, JPG, and SVG file formats. A square aspect ratio is recommended for the best display results.
+{% endhint %}
+
+<div><figure><img src="../../.gitbook/assets/image (773).png" alt=""><figcaption><p>Fallback to Initial of Display Name</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (771).png" alt=""><figcaption><p>Use Company Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (772).png" alt=""><figcaption><p>Upload Custom Icon</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -122,7 +137,7 @@ The default value is 1,440 minutes (24 hours). This is the recommended settings.
 
 After finishing configuration, select **Create**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (117).png" alt="" width="245"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (774).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -130,16 +145,16 @@ After finishing configuration, select **Create**.
 
 After a widget is created, the next page opens automatically so the widget details and activation steps can be reviewed.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (775).png" alt=""><figcaption></figcaption></figure></div>
 
 1. In the Widget Configuration tab (in the middle of the page), confirm the widget status shows **Draft** (inactive).
 2. In the **Embed Code** tab (at the bottom of the page), review the inactive reminder message.
 3. To activate the widget, toggle it on in the top-right corner.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (778).png" alt=""><figcaption></figcaption></figure></div>
 
 4. Confirm the widget status changes from **Draft** to **Active** and the inactive reminder message no longer appears.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (779).png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}

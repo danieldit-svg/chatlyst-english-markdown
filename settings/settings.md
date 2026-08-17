@@ -4,12 +4,12 @@ icon: gear
 
 # Settings
 
-Use Settings to manage [Profile](profile.md), [Company](company.md), [Team](team.md), [Customer Attribute](customer-attributes.md) and [Billing](billing.md) in one place. Review and update key information for your account and workspace.
+The Settings menu serves as the central hub for managing the system. Use this area to configure your workspace, adjust system preferences, and manage account details.
 
-## Settings
+### Navigating to Settings
 
-* Start on the Home page.
-* Select the **Settings icon (gear icon)**.
-* Find the icon in the sidebar navigation at the bottom of the right panel, next to user name.
+1. Start on the Home page.
+2. Locate the sidebar navigation menu at the bottom of the right panel, directly next to the username.
+3. Select the **Settings icon (gear icon)**.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (121).png" alt="" width="563"><figcaption></figcaption></figure></div>

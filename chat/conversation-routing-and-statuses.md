@@ -1,17 +1,17 @@
 ---
 description: >-
-  Conversation Labels and statuses work together. Understanding both helps
+  Conversation Routing and statuses work together. Understanding both helps
   interpret the Thread List correctly.
 icon: label
 ---
 
-# Labels and Statuses
+# Conversation Routing and Statuses
 
-## Conversation Labels
+## Conversation Routing
 
-Conversation Labels group conversations by a defined set of statuses.
+Conversation Routing group conversations by a defined set of statuses.
 
-<table><thead><tr><th>Label</th><th width="282.6968994140625">Definition</th><th width="460.24072265625">Statuses</th></tr></thead><tbody><tr><td>All</td><td>Shows every conversation.</td><td>Bot Handling, Pending 1st Response, Pending Response, Open, Snoozed, Previously Snoozed, and Closed</td></tr><tr><td>Active</td><td>Shows open conversations that still need attention.</td><td>Pending 1st Response, Pending Response, Open, Snoozed, and Previously Snoozed</td></tr><tr><td>Bot</td><td>Shows conversations the chatbot is currently handling.</td><td>Bot Handling and Closed</td></tr><tr><td>Human</td><td>Shows conversations currently handled by a live agent.</td><td>Pending 1st Response, Pending Response, Open, and Previously Snoozed</td></tr></tbody></table>
+<table><thead><tr><th>Routing</th><th width="282.6968994140625">Definition</th><th width="460.24072265625">Statuses</th></tr></thead><tbody><tr><td>All</td><td>Displays every conversation within the system.</td><td>Bot Handling, Pending 1st Response, Pending Response, Open, Snoozed, Previously Snoozed, and Closed</td></tr><tr><td>Mine</td><td>Displays ongoing conversations currently assigned to or claimed by user account.</td><td>Pending 1st Response, Pending Response, Open, Snoozed, and Previously Snoozed</td></tr><tr><td>Bot</td><td>Displays active conversations currently managed by the automated chatbot.</td><td>Bot Handling and Closed</td></tr><tr><td>Unassigned</td><td>Displays open conversations that require human support but are waiting for a team member to claim them.</td><td>Pending 1st Response, Pending Response, Open, and Previously Snoozed</td></tr></tbody></table>
 
 ***
 
