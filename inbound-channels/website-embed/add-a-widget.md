@@ -64,7 +64,7 @@ Users can update the following fields:
     * **Dark** — applies dark styling to the widget body, input field, and footer.
     * **Auto** — automatically sets the widget theme based on system settings.
 
-<div><figure><img src="../../.gitbook/assets/image (1020).png" alt=""><figcaption><p>Light Theme</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1019).png" alt=""><figcaption><p>Dark Them</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1024).png" alt=""><figcaption><p>Light Theme</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1019).png" alt=""><figcaption><p>Dark Them</p></figcaption></figure></div>
 
 4. **Position**
    * To set where the widget appears on the website, choose the position where it will be displayed for visitors (**Bottom Right**, **Bottom Left**, **Center**, or **Embedded**). This setting determines where the widget  shows up on the screen, or whether it appears inline where the widget is embedded on the page.
