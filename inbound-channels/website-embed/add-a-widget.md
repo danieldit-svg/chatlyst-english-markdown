@@ -27,8 +27,6 @@ Navigation tab — use this tab to move between [Appearance](add-a-widget.md#app
 
 **Control the visual design of the widget, including name, colors, placement on the page and widget icon setting.**
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (756).png" alt=""><figcaption></figcaption></figure></div>
-
 Users can update the following fields:
 
 1. **Basic Information**
