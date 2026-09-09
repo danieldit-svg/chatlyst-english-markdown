@@ -44,34 +44,32 @@ Users can update the following fields:
     <div><figure><img src="../../.gitbook/assets/image (1010).png" alt="" width="375"><figcaption><p>Default Message</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1009).png" alt="" width="375"><figcaption><p>Customize Message</p></figcaption></figure></div>
 
 
-3. **Widget Color**
+3.  **Widget Color**
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1014).png" alt="" width="563"><figcaption></figcaption></figure></div>
+    <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1014).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-* **Primary Color** — sets the primary color used across the widget and defines the overall brand look. This color applies to the header and the widget launcher and does not change when switching themes. A color can be selected in the color picker or entered as a HEX code.
+    * **Primary Color** — sets the primary color used across the widget and defines the overall brand look. This color applies to the header and the widget launcher and does not change when switching themes. A color can be selected in the color picker or entered as a HEX code.
 
-<div><figure><img src="../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>Header</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>Launcher</p></figcaption></figure></div>
+    <div><figure><img src="../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>Header</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>Launcher</p></figcaption></figure></div>
 
-* **Secondary Color** — sets the secondary color used for supporting UI elements and creates contrast with the primary color. This color applies only to the footer.
+    * **Secondary Color** — sets the secondary color used for supporting UI elements and creates contrast with the primary color. This color applies only to the footer.
 
 <figure><img src="../../.gitbook/assets/image (1008).png" alt="" width="375"><figcaption><p>Footer</p></figcaption></figure>
 
-3.  **Widget Theme**
-
-    To set the widget theme for the widget experience, choose the theme option that best matches the intended look and feel for visitors.
-
-    * **Light** — applies light styling to the widget body and input field.
-    * **Dark** — applies dark styling to the widget body, input field, and footer.
-    * **Auto** — automatically sets the widget theme based on system settings.
+4. **Widget Theme**
+   * To set the widget theme for the widget experience, choose the theme option that best matches the intended look and feel for visitors.
+     * **Light** — applies light styling to the widget body and input field.
+     * **Dark** — applies dark styling to the widget body, input field, and footer.
+     * **Auto** — automatically sets the widget theme based on system settings.
 
 <div><figure><img src="../../.gitbook/assets/image (1024).png" alt=""><figcaption><p>Light Theme</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1019).png" alt=""><figcaption><p>Dark Them</p></figcaption></figure></div>
 
-4. **Position**
+5. **Position**
    * To set where the widget appears on the website, choose the position where it will be displayed for visitors (**Bottom Right**, **Bottom Left**, **Center**, or **Embedded**). This setting determines where the widget  shows up on the screen, or whether it appears inline where the widget is embedded on the page.
 
 <div><figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption><p>Center</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (767).png" alt=""><figcaption><p>Bottom Left</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (768).png" alt=""><figcaption><p>Bottom Right</p></figcaption></figure></div>
 
-5. **Widget Icon Type**&#x20;
+6. **Widget Icon Type**&#x20;
    * To determine the visual image displayed on the chat widget to website visitors. To set the appearance of the widget, choose the option that best matches the desired look and feel for the website.
      * **Fallback to Initial of Display Name** — This option applies the configured Company Display Name.&#x20;
      * **Use Company Icon** — This option automatically applies the company logo previously uploaded in the Settings. For instructions on how to upload the main company icon, please refer to the [Company](../../settings/company.md) guide.
