@@ -36,49 +36,57 @@ Users can update the following fields:
    * **Widget Name** — an internal name used to manage multiple widgets.
    * **Welcome Messag**e — the greeting shown when the widget opens.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (758).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1012).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-2. **Widget Color**
+2.  **Typing Indicator Text**
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (759).png" alt="" width="563"><figcaption></figcaption></figure></div>
+    * The Typing Indicator Text is the short message visitors see in the chatbox while the chatbot is generating a response. By default, this message is set to: _"Bot is preparing an answer..."_
+    * User can customize this text to better match your brand's voice and keep visitors informed while they wait for a reply.
+
+    <div><figure><img src="../../.gitbook/assets/image (1010).png" alt="" width="375"><figcaption><p>Default Message</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1009).png" alt="" width="375"><figcaption><p>Customize Message</p></figcaption></figure></div>
+
+
+3. **Widget Color**
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1014).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 * **Primary Color** — sets the primary color used across the widget and defines the overall brand look. This color applies to the header and the widget launcher and does not change when switching themes. A color can be selected in the color picker or entered as a HEX code.
 
-<div><figure><img src="../../.gitbook/assets/image (760).png" alt="" width="563"><figcaption><p>Header</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (763).png" alt="" width="563"><figcaption><p>Launcher</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>Header</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>Launcher</p></figcaption></figure></div>
 
 * **Secondary Color** — sets the secondary color used for supporting UI elements and creates contrast with the primary color. This color applies only to the footer.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (762).png" alt="" width="375"><figcaption><p>Footer</p></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/image (1008).png" alt="" width="375"><figcaption><p>Footer</p></figcaption></figure>
 
-2.  **Widget Theme**
+3.  **Widget Theme**
 
-    * To set the widget theme for the widget experience, choose the theme option that best matches the intended look and feel for visitors.
-      * **Light** — applies light styling to the widget body and input field.
-      * **Dark** — applies dark styling to the widget body, input field, and footer.
-      * **Auto** — automatically sets the widget theme based on system settings.
+    To set the widget theme for the widget experience, choose the theme option that best matches the intended look and feel for visitors.
 
-    <div><figure><img src="../../.gitbook/assets/image (764).png" alt=""><figcaption><p>Light Theme</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (765).png" alt=""><figcaption><p>Dark Theme</p></figcaption></figure></div>
-3. **Position**
+    * **Light** — applies light styling to the widget body and input field.
+    * **Dark** — applies dark styling to the widget body, input field, and footer.
+    * **Auto** — automatically sets the widget theme based on system settings.
+
+<div><figure><img src="../../.gitbook/assets/image (1020).png" alt=""><figcaption><p>Light Theme</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1019).png" alt=""><figcaption><p>Dark Them</p></figcaption></figure></div>
+
+4. **Position**
    * To set where the widget appears on the website, choose the position where it will be displayed for visitors (**Bottom Right**, **Bottom Left**, **Center**, or **Embedded**). This setting determines where the widget  shows up on the screen, or whether it appears inline where the widget is embedded on the page.
 
 <div><figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption><p>Center</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (767).png" alt=""><figcaption><p>Bottom Left</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (768).png" alt=""><figcaption><p>Bottom Right</p></figcaption></figure></div>
 
-4. **Widget Icon Type**&#x20;
+5. **Widget Icon Type**&#x20;
+   * To determine the visual image displayed on the chat widget to website visitors. To set the appearance of the widget, choose the option that best matches the desired look and feel for the website.
+     * **Fallback to Initial of Display Name** — This option applies the configured Company Display Name.&#x20;
+     * **Use Company Icon** — This option automatically applies the company logo previously uploaded in the Settings. For instructions on how to upload the main company icon, please refer to the [Company](../../settings/company.md) guide.
+     * **Upload Custom Icon** — This option applies a unique image specifically for this individual widget, overriding the default company icon.
+       * How to upload: Select this option to reveal the upload menu. Choose an image file from the local computer to upload it.
 
-* To determine the visual image displayed on the chat widget to website visitors. To set the appearance of the widget, choose the option that best matches the desired look and feel for the website.
-  * **Fallback to Initial of Display Name** — This option applies the configured Company Display Name.&#x20;
-  * **Use Company Icon** — This option automatically applies the company logo previously uploaded in the Settings. For instructions on how to upload the main company icon, please refer to the [Company](../../settings/company.md) guide.
-  *   **Upload Custom Icon** — This option applies a unique image specifically for this individual widget, overriding the default company icon.
-
-      * How to upload: Select this option to reveal the upload menu. Choose an image file from the local computer to upload it.
-
-      <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (769).png" alt="" width="358"><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (769).png" alt="" width="358"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 The company icon supports PNG, JPG, and SVG file formats. A square aspect ratio is recommended for the best display results.
 {% endhint %}
 
-<div><figure><img src="../../.gitbook/assets/image (773).png" alt=""><figcaption><p>Fallback to Initial of Display Name</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (771).png" alt=""><figcaption><p>Use Company Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (772).png" alt=""><figcaption><p>Upload Custom Icon</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (1021).png" alt=""><figcaption><p>Fallback to Initial of Display Name</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1022).png" alt=""><figcaption><p>Use Company Icon</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1023).png" alt=""><figcaption><p>Upload Custom Icon</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -95,7 +103,7 @@ The company icon supports PNG, JPG, and SVG file formats. A square aspect ratio 
       _“Thanks for your question. I am passing this conversation to a human agent now. Someone from our team will reply shortly.”_
     * When Human Handoff setting is **OFF**, **Handoff Unavailable Message**:\
       _“Thanks for reaching out. I am not able to help with this request in chat right now, so this conversation will be closed for now. Please contact our team directly if you still need assistance.”_
-* Language Support
+* **Language Support**
   * There is currently no translation support for this feature. If multiple languages are needed, set the message for each language separately.
 
 <div><figure><img src="../../.gitbook/assets/image (277).png" alt="" width="321"><figcaption><p>Human Handoff — <strong>ON</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (278).png" alt="" width="325"><figcaption><p>Human Handoff — <strong>OFF</strong></p></figcaption></figure></div>
